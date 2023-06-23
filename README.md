@@ -5,7 +5,9 @@ A Comissão Parlamentar de Jogos Eletrônicos (CoPaJE) surge como uma iniciativa
 - [X] Tutorial de como contribuir - CONTRIBUTING.md;
 - [X] Escrever filosofias e objetivos;
 - [X] Copiar a proposta e esboco de documento para o Repo;
-- [ ] Templates para propostas de melhorias / issues / merge requests;
+- [X] Templates para propostas de melhorias;
+- [X] Templates para issues;
+- [ ] Templates para merge requests;
 - [ ] Listar companhias, grupos, empresas, deputados e senadores que apoiam a causa;
 - [ ] Listar todas iniciativas de abaixo assinado relacionado ao tema;
 - [ ] Descrição de como apoiar a causa;
