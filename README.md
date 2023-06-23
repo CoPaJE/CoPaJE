@@ -10,7 +10,8 @@ Frente e comissao parlamentar descentralizada e colaborativa do Brasil.
 - [ ] Templates para propostas de melhorias / issues / merge requests;
 - [ ] Listar companhias, grupos, empresas, deputados e senadores que apoiam a causa;
 - [ ] Listar todas iniciativas de abaixo assinado relacionado ao tema;
-- [ ] Links para doacoes;
+- [ ] Descricao de como apoiar a causa e canal de transparencia de gastos com open-collective ou outro;
 - [ ] Website 
     - [ ] Logo;
     - [ ] SEO;
+    - [ ] Analytics;
