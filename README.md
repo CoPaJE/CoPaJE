@@ -29,7 +29,7 @@ Por fim, acreditamos na importância da colaboração entre os diversos atores e
 Nosso compromisso é assegurar que as propostas relacionadas à comunidade de desenvolvedores de jogos sejam devidamente registradas e representadas dentro do PL em discussão. Reconhecemos a complexidade e a diversidade da indústria de jogos, bem como a importância de proporcionar um ambiente regulatório favorável ao crescimento e à inovação. Com a regularização adequada do projeto de lei, visamos estabelecer um arcabouço normativo que promova a competitividade e o desenvolvimento sustentável do setor, sem obscurecer temas relevantes, como as apostas, que possam comprometer a integridade e o propósito essencial dos jogos eletrônicos. A CoPaJE se coloca como uma voz representativa dos desenvolvedores de jogos, buscando construir um ambiente propício para a criatividade, o empreendedorismo e a prosperidade de toda a comunidade envolvida nesse setor tão vital e promissor.
 
 # Proposta
-Fizemos uma primeira reunião com interessados da comunidade Awesome GameDev Guild para debater melhorias da PL atual resultando no seguinte [documento](https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit) com comentários e propostas iniciais.
+Fizemos uma primeira reunião com interessados da comunidade Awesome GameDev Guild para debater melhorias do PL atual resultando no seguinte [documento](https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit) com comentários e propostas iniciais.
 
 # Contato CoPaJE
 Participe das nossas discussões e atividades e fique por dentro das informações pertinentes à causa dos desenvolvedores de jogos
