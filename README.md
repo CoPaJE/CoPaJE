@@ -1,5 +1,5 @@
 # CoPaJE
-Comissao Parlamentar de Jogos Eletronicos
+Comissão Parlamentar de Jogos Eletronicos
 
 Frente e comissao parlamentar descentralizada e colaborativa do Brasil.
 
