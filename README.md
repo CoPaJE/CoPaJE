@@ -1,7 +1,7 @@
 # CoPaJE
-Comissao Parlamentar de Jogos Eletronicos
+Conselho Parlamentar de Jogos Eletronicos
 
-Frente e comissao parlamentar descentralizada e colaborativa do Brasil.
+Primeira iniciativa descentralizada e colaborativa do Brasil com intuito de gerar insumos para mudança legislativa. 
 
 # ToDo:
 - [ ] Tutorial de como contribuir - CONTRIBUTING.md;
