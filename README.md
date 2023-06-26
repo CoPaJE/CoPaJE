@@ -7,7 +7,7 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamen
 - [:material-file-edit:  Proposta](PROPOSTA.md) de projeto de lei.
 - [:thinking: Filosofia](#filosofia)
 - [:octicons-goal-16: Objetivos](#objetivos)
-- [:man_construction_worker: Colabore](#colabore-com-um-clique)
+- [:man_construction_worker: Colabore](#colabore)
 
 # Contexto
 
@@ -53,7 +53,7 @@ O CoPaJE busca promover programas e iniciativas que incentivem a capacitação e
 # Atuação
 Fizemos uma primeira reunião com interessados da comunidade Awesome GameDev Guild para debater melhorias do PL atual resultando no seguinte [documento](https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit) com comentários e propostas iniciais.
 
-# Colabore com um clique!
+# Colabore
 
 Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem problema, voce pode no ajudar de diversas maneiras, tais como:
 
