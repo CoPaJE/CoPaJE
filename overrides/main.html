@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+
+{% block extrahead %}
+<meta property="og:type" content="website">
+<meta property="og:title" content="Conselho Parlamentar de Jogos Eletronicos">
+<meta property="og:description" content="CoPaJe - Conselho Parlamentar de Jogos Eletronicos.">
+<meta property="og:url" content="https://copaje.com/">
+<meta property="og:image" content="https://copaje.com/assets/images/favicon.png">
+{% endblock %}
+
+
+{% block scripts %}
+<!-- Add scripts that need to run before here -->
+{{ super() }}
+<!-- Add scripts that need to run afterwards here -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V22ZVLJ57"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6V22ZVLJ57');
+</script>
+{% endblock %}
