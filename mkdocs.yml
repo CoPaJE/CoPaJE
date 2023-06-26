@@ -11,9 +11,9 @@ site_author: All Contributors. See https://github.com/CoPaJE/CoPaJE/graphs/contr
 nav:
   - Home:
     - README.md
+    - Proposta: PROPOSTA.md
     - Filosofia: /#filosofia
     - Objetivos: /#objetivos
-
   - Proposta: PROPOSTA.md
   - Contribua: CONTRIBUTING.md
 
