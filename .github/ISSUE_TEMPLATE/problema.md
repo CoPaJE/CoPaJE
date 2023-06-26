@@ -4,10 +4,12 @@ profissão: Desenvolvedor de jogos
 ---
 
 # Nova proposta
+Uma nova proposta deve ser uma alteração no [Projeto de Lei 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) ou uma adição.
+
 Cite qual artigo gostaria de alterar ou qual proposta gostaria de adicionar no PL.
 Exemplo: 
 
-Alteração no texto do Art 2º do [Projeto de Lei 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline&_gl=1*158e4q9*_ga*MTg4NDAyNjc0Ni4xNjgzMTUxODU1*_ga_CW3ZH25XMK*MTY4NzUyMzczMi41LjAuMTY4NzUyMzczMi4wLjAuMA..))
+Alteração no texto do Art 2º do PL
 
 ### Consta: 
 ```
