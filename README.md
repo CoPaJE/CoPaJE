@@ -57,7 +57,7 @@ Fizemos uma primeira reunião com interessados da comunidade Awesome GameDev Gui
 
 Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem problema, voce pode no ajudar de diversas maneiras, tais como:
 
-- [:material-file-edit: Edite](https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md) a [proposta](PROPOSTA.md)
+- [:material-file-edit: Edite](https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md) a [proposta](PROPOSTA.md). Crie uma conta no github, aperte no botao :pencil2: no canto superior direito.
 - [:simple-whatsapp: Whatsapp](https://chat.whatsapp.com/LELghAO8waM7yExBIvMB8p) Participe das nossas discussões e atividades.
 - Nos deixe [![GitHub Repo stars](https://img.shields.io/github/stars/CoPaJE/CoPaJE)](https://github.com/InfiniBrains/mobagen/stargazers) no nosso [repo](https://github.com/InfiniBrains/mobagen/stargazers).
 - Participe de abaixo assinados - WiP - Adicionar link aqui;
