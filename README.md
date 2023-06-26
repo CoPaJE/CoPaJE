@@ -5,15 +5,27 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamen
 # Sumario
 
 - [:material-file-edit:  Proposta](PROPOSTA.md) de projeto de lei.
+- [::material-connection: Contexto](#contexto)
 - [:thinking: Filosofia](#filosofia)
 - [:octicons-goal-16: Objetivos](#objetivos)
 - [:man_construction_worker: Colabore](#colabore)
 
 # Contexto
 
-Compreendendo a importância crescente da indústria como um motor econômico e cultural, o CoPaJE tem como objetivo primordial garantir que o Projeto de Lei do Marco Legal para Indústria de Jogos Eletrônicos ([PL 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) em questão seja devidamente aprimorado e regulamentado, de forma a atender às necessidades e aspirações da massa de desenvolvedores no país.
+O CoPaJE tem como objetivo garantir que o Projeto de Lei do Marco Legal para Indústria de Jogos Eletrônicos ([PL 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) seja devidamente aprimorado e regulamentado, de forma a atender às necessidades e aspirações da massa de desenvolvedores no país.
+
+Aqui vao algumas iniciativas, comunidades e pessoas que estao contestando este PL. (veja [como editar essa lista](#colabore))
+
+!!! note
+
+    - [Abragames](https://www.abragames.org/)
+    - [Ringdevrj](https://www.linkedin.com/company/ringdevrj/)
+    - (Abring)[https://www.linkedin.com/company/associa%C3%A7%C3%A3o-bring/]
+    - [Adjogosrs](https://www.linkedin.com/company/adjogosrs/)
+    - [ascgames](https://www.linkedin.com/company/ascgames/)   
 
 # Filosofia
+
 Nossa filosofia é baseada em três princípios:
 
 1. Descentralização

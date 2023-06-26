@@ -2,11 +2,17 @@
 
 ???+ tip inline end "Como editar essa proposta" 
 
-    Para editar este texto, crie uma conta no github, aperte no botao :pencil2: no canto superior direito, edite, e submeta sua mudanca para analise dos moderadores.
+    Para editar este texto: 
+    1. Tenha uma conta no github; 
+    2. Aperte no botao :pencil2: no canto superior direito; 
+    3. Edite; 
+    4. Submeta sua mudanca para analise dos moderadores;
+    5. Responda a possiveis pedidos de melhoria;
 
-Texto Original: https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&disposition=inline
+# Contexto
 
-Texto Com comentarios e revisoes iniciais: https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit?usp=sharing
+- Texto Original: https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&disposition=inline
+- Texto Com comentarios e revisoes iniciais: https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit?usp=sharing
 
 Work in progress! Favor ajudar a editar esse documento!
 
