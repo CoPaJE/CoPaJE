@@ -1,5 +1,17 @@
 # CoPaJE
-O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) surge como uma iniciativa parlamentar e descentralizada para promover o desenvolvimento de jogos no Brasil de forma justa e adequada aos interesses da comunidade de desenvolvedores e indústria de desenvolvimento de jogos. Compreendendo a importância crescente da indústria como um motor econômico e cultural, o CoPaJE tem como objetivo primordial garantir que o Projeto de Lei do Marco Legal para Indústria de Jogos Eletrônicos ([PL 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) em questão seja devidamente aprimorado e regulamentado, de forma a atender às necessidades e aspirações da massa de desenvolvedores no país.
+
+O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamentar descentralizada para promover o desenvolvimento de jogos no Brasil de forma justa e adequada aos interesses da comunidade de desenvolvedores de jogos.
+
+# Sumario
+
+- [:material-file-edit:  Proposta](PROPOSTA.md) de projeto de lei.
+- [:thinking: Filosofia](#filosofia)
+- [:octicons-goal-16: Objetivos](#objetivos)
+- [:man_construction_worker: Colabore](#colabore-com-um-clique)
+
+# Contexto
+
+Compreendendo a importância crescente da indústria como um motor econômico e cultural, o CoPaJE tem como objetivo primordial garantir que o Projeto de Lei do Marco Legal para Indústria de Jogos Eletrônicos ([PL 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) em questão seja devidamente aprimorado e regulamentado, de forma a atender às necessidades e aspirações da massa de desenvolvedores no país.
 
 # Filosofia
 Nossa filosofia é baseada em três princípios:
@@ -41,20 +53,12 @@ O CoPaJE busca promover programas e iniciativas que incentivem a capacitação e
 # Atuação
 Fizemos uma primeira reunião com interessados da comunidade Awesome GameDev Guild para debater melhorias do PL atual resultando no seguinte [documento](https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit) com comentários e propostas iniciais.
 
-# Contato CoPaJE
-Participe das nossas discussões e atividades e fique por dentro das informações pertinentes à causa dos desenvolvedores de jogos
-[Whatsapp](https://chat.whatsapp.com/LELghAO8waM7yExBIvMB8p)
-
-# Contato Awesome GameDev Guild
-Venha conhecer nossa comunidade e participe dos nossos eventos de fomento ao desenvolvimento de jogos. 
-[Whatsapp](https://chat.whatsapp.com/CAboWKtosP673f9EkzxKNb)
-[Discord](https://discord.gg/VzFeBXGeFv)
-[GitHub](https://github.com/InfiniBrains/Awesome-GameDev-Resources/issues)
-
 # Colabore com um clique!
 
-Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem problema, voce pode no ajudar de diversas maneiras, tais como: 
+Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem problema, voce pode no ajudar de diversas maneiras, tais como:
 
+- [:material-file-edit: Edite](https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md) a [proposta](PROPOSTA.md)
+- [:simple-whatsapp: Whatsapp](https://chat.whatsapp.com/LELghAO8waM7yExBIvMB8p) Participe das nossas discussões e atividades.
 - Nos deixe [![GitHub Repo stars](https://img.shields.io/github/stars/CoPaJE/CoPaJE)](https://github.com/InfiniBrains/mobagen/stargazers) no nosso [repo](https://github.com/InfiniBrains/mobagen/stargazers).
 - Participe de abaixo assinados - WiP - Adicionar link aqui;
 
