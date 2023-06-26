@@ -9,7 +9,13 @@ edit_uri: blob/main/
 site_author: All Contributors. See https://github.com/CoPaJE/CoPaJE/graphs/contributors
 
 nav:
-  - Home: README.md
+  - Home:
+    - README.md
+    - Filosofia: /#filosofia
+    - Objetivos: /#objetivos
+
+  - Proposta: PROPOSTA.md
+  - Contribua: CONTRIBUTING.md
 
 theme:
   name: material
