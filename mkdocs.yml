@@ -20,6 +20,8 @@ nav:
 theme:
   name: material
   custom_dir: overrides
+  favicon: overrides/favicon/apple-touch-icon.png
+  logo: overrides/favicon/apple-touch-icon.png
   features:
     # - announce.dismiss
     - content.action.edit
