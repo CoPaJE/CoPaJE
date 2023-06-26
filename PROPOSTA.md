@@ -1,5 +1,8 @@
 Texto Original: https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&disposition=inline
+
 Texto Com comentarios e revisoes iniciais: https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit?usp=sharing
+
+...
 
 Cria o marco legal para a indústria  de jogos eletrônicos e para os jogos  de fantasia.
 
