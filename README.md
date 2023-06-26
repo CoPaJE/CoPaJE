@@ -3,12 +3,15 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) surge como uma iniciativa 
 
 # Filosofia
 Nossa filosofia é baseada em três princípios:
+
 1. Descentralização
 2. Inclusão
 3. Colaboração
 
 Acreditamos que a regulamentação dos jogos eletrônicos deve ser pautada pela participação ativa da comunidade de desenvolvedores, garantindo que suas vozes sejam ouvidas e consideradas na formulação de políticas públicas. Além disso, buscamos fomentar a transparência no processo legislativo, divulgando informações e promovendo a ampla discussão acerca das propostas relacionadas à indústria de jogos. Empresas e pessoas que atuam na causa estão participando ativamente na melhoria do sistema e deixando seu registro para sempre na história da colaboração.
+
 Valorizamos a importância da inclusão, defendendo que todas as pessoas interessadas em desenvolver jogos devem ter oportunidades equitativas e acessíveis. Nos baseamos na promoção de um ambiente diverso e inclusivo, no qual todos os desenvolvedores, independentemente de seu porte ou origem, possam prosperar e contribuir para o crescimento do setor.
+
 Por fim, acreditamos na importância da colaboração entre os diversos atores envolvidos na indústria de jogos. A CoPaJE busca estabelecer parcerias e diálogos construtivos com desenvolvedores, associações, instituições acadêmicas e outros órgãos governamentais, a fim de promover a troca de conhecimentos, experiências e melhores práticas. Nossa filosofia se fundamenta na ideia de que, juntos, podemos impulsionar o desenvolvimento dos jogos eletrônicos no Brasil, fortalecendo a indústria e beneficiando tanto os profissionais quanto os jogadores.
 
 # Objetivos
@@ -18,6 +21,7 @@ Nosso compromisso é assegurar que as propostas relacionadas à comunidade de de
 
 ## Objetivos secundários
 Além do objetivo principal, o CoPaJE visa:
+
 1. Promover a conscientização e a valorização da indústria de jogos
 O CoPaJE se empenha em promover a conscientização sobre a importância econômica, cultural e social da indústria de jogos no Brasil. Buscamos combater estereótipos negativos associados aos jogos eletrônicos, valorizar o trabalho dos desenvolvedores e destacar o potencial do setor como gerador de empregos, inovação e entretenimento.
 
