@@ -1,0 +1,35 @@
+name: Discussão de mudanças
+description: Discussão sobre uma alteração no Projeto de Lei 2.769/2021, uma adição ou remoção.
+title: "[Discussão]: "
+labels: ["discussão", "triage"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por contribuir com o CoPaJE! Antes de abrir uma nova issue, por favor, cheque se ela já não existe.
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: |
+        Descreva o contexto da proposta. Por que ela é necessária? Qual problema ela resolve?
+      placeholder: Descreva o contexto da proposta. Por que ela é necessária? Qual problema ela resolve?
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Descrição
+      description: |
+        Descreva a proposta de alteração, remoção ou adição.
+      placeholder: Descreva a proposta de alteração, remoção ou adição.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Termos
+      description: |
+        Por favor, marque a caixa abaixo para indicar que você leu e concorda com os termos da comunidade.
+      options:
+        - label: Eu li e concordo com os termos de contribuicao comunidade no link abaixo ⬇️.
+          required: true
