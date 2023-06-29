@@ -1,8 +1,6 @@
 # Contra-Proposta ao PL. 2796 de 2021
 
 !!! tip inline end "Como editar essa proposta" 
-
-    Para editar este texto: 
     
     1. Tenha uma conta no github; 
     2. Aperte no botao :pencil2: no canto superior direito; 
