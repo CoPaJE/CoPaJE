@@ -27,17 +27,16 @@ Cria o marco legal para a indústria de jogos eletrônicos, jogos analógicos e 
 
 O CONGRESSO NACIONAL decreta:
 
-Art. 1º Esta Lei cria o marco legal para a indústria dos jogos eletrônicos, jogos analógicos e para os jogos de fantasia.
+## Art. 1º Esta Lei cria o marco legal para a indústria dos jogos eletrônicos, jogos analógicos e para os jogos de fantasia.
 
-Art. 2º A fabricação, a importação, a exportação, a comercialização, o desenvolvimento dos jogos eletrônicos, jogos analógicos e a prestação dos serviços de entretenimento 
+## Art. 2º A fabricação, a importação, a exportação, a comercialização, o desenvolvimento dos jogos eletrônicos, jogos analógicos e a prestação dos serviços de entretenimento 
 vinculados aos jogos de fantasia são regulados por esta Lei.
 
-§ 1º Considera-se jogo eletrônico:
+### § 1º Considera-se jogo eletrônico:
 
-    I - o programa de computador que contenha elementos gráficos e audiovisuais, conforme definido na Lei nº 9.609, de 19 de fevereiro de 1998, com fins lúdicos, 
-    em que o usuário controla a ação e interaje com a interface;
-    II - o dispositivo central e acessórios, para uso privado ou comercial, especialmente ou parcialmente dedicados a executar jogos eletrônicos; e
-    III - o software para aplicativo de celular e/ou página de internet desenvolvido com o objetivo de entretenimento.
+- I - o programa de computador que contenha elementos gráficos e audiovisuais, conforme definido na Lei nº 9.609, de 19 de fevereiro de 1998, com fins lúdicos, em que o usuário controla a ação e interaje com a interface;
+- II - o dispositivo central e acessórios, para uso privado ou comercial, especialmente ou parcialmente dedicados a executar jogos eletrônicos; e
+- III - o software para aplicativo de celular e/ou página de internet desenvolvido com o objetivo de entretenimento.
 
 § 2º Considera-se jogo analógico:
 
