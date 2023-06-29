@@ -1,13 +1,13 @@
 # Contra-Proposta ao PL. 2796 de 2021
 
-???+ tip inline end "Como editar essa proposta" 
+!!! tip inline end "Como editar essa proposta" 
 
     Para editar este texto: 
-    1. Tenha uma conta no github; 
-    2. Aperte no botao :pencil2: no canto superior direito; 
-    3. Edite; 
-    4. Submeta sua mudanca para analise dos moderadores;
-    5. Responda a possiveis pedidos de melhoria;
+    - 1. Tenha uma conta no github; 
+    - 2. Aperte no botao :pencil2: no canto superior direito; 
+    - 3. Edite e salve; 
+    - 4. Clique em Pull Request - Submeta sua mudanca para analise dos moderadores;
+    - 5. Responda a possiveis pedidos de melhoria;
 
 ## Contexto
 
