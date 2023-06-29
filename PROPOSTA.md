@@ -17,7 +17,7 @@
 ## Leis que este projeto aponta:
 
 - [Lei da Liberdade Econômica](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13874.htm)
-- [Estatuto Nacional da Micro Empresa e da Empresa de Pequeno Porte] (https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm)
+- [Estatuto Nacional da Micro Empresa e da Empresa de Pequeno Porte](https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp123.htm)
 - [Lei da Informática](https://www.planalto.gov.br/ccivil_03/leis/l8248.htm)
 - [Programa Nacional de Apoio a Cultura](https://www.planalto.gov.br/ccivil_03/leis/l8313cons.htm)
 - [Lei da Propriedade Intelectual](https://www.planalto.gov.br/ccivil_03/leis/l9609.htm)
