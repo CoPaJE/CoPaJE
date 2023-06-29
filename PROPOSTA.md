@@ -3,6 +3,7 @@
 !!! tip inline end "Como editar essa proposta" 
 
     Para editar este texto: 
+    
     - 1. Tenha uma conta no github; 
     - 2. Aperte no botao :pencil2: no canto superior direito; 
     - 3. Edite e salve; 
