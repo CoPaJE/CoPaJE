@@ -4,11 +4,11 @@
 
     Para editar este texto: 
     
-    - 1. Tenha uma conta no github; 
-    - 2. Aperte no botao :pencil2: no canto superior direito; 
-    - 3. Edite e salve; 
-    - 4. Clique em Pull Request - Submeta sua mudanca para analise dos moderadores;
-    - 5. Responda a possiveis pedidos de melhoria;
+    1. Tenha uma conta no github; 
+    2. Aperte no botao :pencil2: no canto superior direito; 
+    3. Edite e salve; 
+    4. Clique em Pull Request - Submeta sua mudanca para analise dos moderadores;
+    5. Responda a possiveis pedidos de melhoria;
 
 ## Contexto
 
