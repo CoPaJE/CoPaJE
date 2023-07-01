@@ -20,6 +20,7 @@ nav:
   - Contato: /#colabore
 
 theme:
+  language: pt
   name: material
   custom_dir: overrides
   favicon: overrides/favicon/apple-touch-icon.png
@@ -101,10 +102,10 @@ plugins:
       enabled: true
       docs_path: ./
   - git-revision-date-localized:
+      locale: pt
       fallback_to_build_date: true
       timezone: America/Sao_Paulo
-      format: "%Y/%m/%d %H:%M:%S"
-      enable_creation_date: true
+      enable_creation_date: false
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify
