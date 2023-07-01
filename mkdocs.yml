@@ -19,22 +19,25 @@ nav:
   - Proponha: "https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md"
   - Contato: /#colabore
 
-
 theme:
   name: material
   custom_dir: overrides
   favicon: overrides/favicon/apple-touch-icon.png
   logo: overrides/favicon/apple-touch-icon.png
   features:
-    # - announce.dismiss
+    - attr_list
+    - md_in_html
+    - pymdownx.superfences
+    - announce.dismiss
     - content.action.edit
     - content.action.view
     - content.code.annotate
     - content.code.copy
-    - content.tabs.link
+    - content.code.select
+#    - content.tabs.link
     - content.tooltips
     # - header.autohide
-    - navigation.expand
+#    - navigation.expand
     - navigation.footer
     - navigation.indexes
     # - navigation.instant
@@ -90,6 +93,27 @@ theme:
 
 docs_dir: . # in order to use README.md as index.md
 
+plugins:
+  - same-dir
+  - git-committers:
+      repository: CoPaJE/CoPaJE
+      branch: main
+      enabled: true
+      docs_path: ./
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+      timezone: America/Sao_Paulo
+      format: "%Y/%m/%d %H:%M:%S"
+      enable_creation_date: true
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - minify
+  - exclude:
+      glob:
+        - node_modules/*
+        - buildDocs/*
+        - cmake-build-debug/*
+
 markdown_extensions:
   - abbr
   - admonition
@@ -110,12 +134,14 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.keys
-  #  - pymdownx.magiclink:
-  #      repo_url_shorthand: true
-  #      user: squidfunk
-  #      repo: mkdocs-material
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: CoPaJE
+      repo: CoPaJE
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences:
@@ -125,20 +151,13 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
 
-plugins:
-  - same-dir
-  - search:
-      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - minify
-  - exclude:
-      glob:
-        - node_modules/*
-        - buildDocs/*
-        - cmake-build-debug/*
 
 extra:
 #  analytics:
@@ -155,3 +174,9 @@ extra:
 #      link: https://pypi.org/project/mkdocs-material/
 #    - icon: fontawesome/brands/twitter
 #      link: https://twitter.com/squidfunk
+
+#extra_css:
+#  - overrides/stylesheets/extra.css
+#
+#extra_javascript:
+#  - overrides/javascripts/extra.js

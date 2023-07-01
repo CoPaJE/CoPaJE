@@ -4,3 +4,7 @@
 site/
 
 .DS_Store
+
+.env
+
+.cache/

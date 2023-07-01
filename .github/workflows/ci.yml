@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -25,6 +27,7 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y doxygen gource libgs-dev
-          pip install jinja2 Pygments mkdocs-material mkdocs mkdocs-same-dir mkdocs-minify-plugin mkdocs-redirects mkdocs-exclude
+          pip install git+https://${{ secrets.GH_SQUID_TOKEN }}@github.com/squidfunk/mkdocs-material-insiders.git
+          pip install jinja2 Pygments mkdocs mkdocs-same-dir mkdocs-minify-plugin mkdocs-redirects mkdocs-exclude mkdocs-git-committers-plugin-2 mkdocs-git-revision-date-localized-plugin
 #      - run: pip install mkdocs-material mkdocs-same-dir
       - run: mkdocs gh-deploy --force
