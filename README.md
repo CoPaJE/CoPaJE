@@ -53,7 +53,7 @@ O CoPaJE se empenha em promover a conscientização sobre a importância econôm
 O CoPaJE busca estabelecer parcerias e colaborações com outros órgãos governamentais, instituições acadêmicas, associações e entidades relacionadas à indústria de jogos. Essas parcerias visam fortalecer a cooperação, trocar conhecimentos e recursos, e criar um ecossistema colaborativo que beneficie o desenvolvimento sustentável da indústria.
 
 3. Promover a representatividade e a diversidade
-O CoPaJE reconhece a importância de promover a representatividade e a diversidade na indústria de jogos. Buscamos, portanto, incentivar a participação de diferentes grupos e comunidades, como mulheres, minorias étnicas, LGBTQ+ e pessoas com deficiência, visando a construção de um setor mais inclusivo e igualitário.
+O CoPaJE reconhece a importância de promover a representatividade e a diversidade na indústria de jogos. Buscamos, portanto, incentivar a participação de diferentes grupos e comunidades, como mulheres, minorias étnicas, LGBTQ+ e pessoas com deficiência, visando a construção de um setor mais inclusivo e igualitário, dentro dos valores básicos da sociedade brasileira sejam civis, étinicos e religiosos.
 
 4. Estimular a inovação e a criatividade
 O CoPaJE valoriza a importância da inovação e da criatividade na indústria de jogos. Nesse sentido, buscamos criar um ambiente propício para o surgimento de novas ideias, incentivar a pesquisa e o desenvolvimento de tecnologias inovadoras, bem como promover a colaboração entre os desenvolvedores para o compartilhamento de conhecimentos e experiências.
