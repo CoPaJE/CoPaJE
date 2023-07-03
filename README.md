@@ -9,9 +9,11 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamen
 
     ---
 
-    [:octicons-arrow-right-24: Leia a Contra-Proposta](PROPOSTA.md)
+    [:octicons-arrow-right-24: Leia a nossa Contra-Proposta](PROPOSTA.md)
 
-    [:octicons-arrow-right-24: Proposta no senado](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206054).
+    [:octicons-arrow-right-24: Projeto no Senado](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206054)
+
+    [Compartilhe no :simple-facebook: ](https://www.facebook.com/sharer.php?u=https://copaje.com&quote=PL%202796/2021&hashtag=%23PL2796_2021,%23ecidadania){ .md-button .md-button--primary }
 
 -   :material-vote:{ .lg .middle } __Vote na consulta popular__
 
@@ -19,7 +21,7 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamen
 
     [:material-vote: Consulta popular](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931)
 
-    [:material-cancel: Vote Nao](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931){ .md-button .md-button--primary }
+    [Vote Nao :material-cancel:](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931){ .md-button .md-button--primary }
 
 -   :material-connection:{ .lg .middle } __Contexto__
 
@@ -47,7 +49,7 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamen
 
 O CoPaJE tem como objetivo garantir que o Projeto de Lei do Marco Legal para Indústria de Jogos Eletrônicos ([PL 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) seja devidamente aprimorado e regulamentado, de forma a atender às necessidades e aspirações da massa de desenvolvedores no país.
 
-Aqui vao algumas iniciativas, comunidades e pessoas que estao contestando este PL. (veja [como editar essa lista](#colabore))
+Aqui vao algumas iniciativas, comunidades e pessoas que estao contestando este PL. ([veja como editar essa lista](#colabore))
 
 !!! note
 
@@ -57,7 +59,7 @@ Aqui vao algumas iniciativas, comunidades e pessoas que estao contestando este P
     - [Adjogosrs](https://www.linkedin.com/company/adjogosrs/)
     - [ascgames](https://www.linkedin.com/company/ascgames/)   
 
-# Filosofia
+## Filosofia
 
 Nossa filosofia é baseada em três princípios:
 
@@ -71,12 +73,12 @@ Valorizamos a importância da inclusão, defendendo que todas as pessoas interes
 
 Por fim, acreditamos na importância da colaboração entre os diversos atores envolvidos na indústria de jogos. A CoPaJE busca estabelecer parcerias e diálogos construtivos com desenvolvedores, associações, instituições acadêmicas e outros órgãos governamentais, a fim de promover a troca de conhecimentos, experiências e melhores práticas. Nossa filosofia se fundamenta na ideia de que, juntos, podemos impulsionar o desenvolvimento dos jogos eletrônicos no Brasil, fortalecendo a indústria e beneficiando tanto os profissionais quanto os jogadores.
 
-# Objetivos
+## Objetivos
 
-## Objetivo principal
+### Objetivo principal
 Nosso compromisso é assegurar que as propostas relacionadas à comunidade de desenvolvedores de jogos sejam devidamente registradas e representadas. Reconhecemos a complexidade e a diversidade da indústria de jogos, bem como a importância de proporcionar um ambiente regulatório favorável ao crescimento e à inovação. O CoPaJE se coloca como uma voz representativa dos desenvolvedores de jogos, buscando construir um ambiente propício para a criatividade, o empreendedorismo e a prosperidade de toda a comunidade envolvida nesse setor tão vital e promissor.
 
-## Objetivos secundários
+### Objetivos secundários
 Além do objetivo principal, o CoPaJE visa:
 
 1. Promover a conscientização e a valorização da indústria de jogos
@@ -95,21 +97,21 @@ O CoPaJE valoriza a importância da inovação e da criatividade na indústria d
 O CoPaJE busca promover programas e iniciativas que incentivem a capacitação e o desenvolvimento dos profissionais da indústria de jogos. Isso pode incluir a criação de programas de formação, a realização de workshops e eventos educativos, bem como o estabelecimento de parcerias com instituições acadêmicas e organizações especializadas.
 
 
-# Atuação
+## Atuação
 Fizemos uma primeira reunião com interessados da comunidade Awesome GameDev Guild para debater melhorias do PL atual resultando no seguinte [documento](https://docs.google.com/document/d/1V157AgMszqE5QwwmUuUApD4KnSLUSZdUjIOODaHzcsY/edit) com comentários e propostas iniciais.
 
-# Colabore
+## Colabore
 
 Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem problema, voce pode no ajudar de diversas maneiras, tais como:
 
-- [:material-file-edit: Edite](https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md) a [proposta](PROPOSTA.md). Crie uma conta no github, aperte no botao :pencil2: no canto superior direito.
+- Aprenda a colaborar ativamente com nosso [Guia de  Colaboracao](CONTRIBUTING.md). 
 - [:simple-whatsapp: Whatsapp](https://chat.whatsapp.com/LELghAO8waM7yExBIvMB8p) Participe das nossas discussões e atividades.
 - Nos deixe [![GitHub Repo stars](https://img.shields.io/github/stars/CoPaJE/CoPaJE)](https://github.com/InfiniBrains/mobagen/stargazers) no nosso [repo](https://github.com/InfiniBrains/mobagen/stargazers).
 - Participe de [abaixo assinados](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931);
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CoPaJE/CoPaJE&type=Date)](https://star-history.com/#CoPaJE/CoPaJE&Date)
 
-# ToDo:
+## ToDo:
 - [X] Tutorial de como contribuir;
     - [X] CONTRIBUTING.md;
     - [ ] YouTube tutoriais or GIF;
