@@ -101,6 +101,7 @@ plugins:
       branch: main
       enabled: true
       docs_path: ./
+      cache_dir: /tmp/cache/copajecache
   - git-revision-date-localized:
       locale: pt
       fallback_to_build_date: true

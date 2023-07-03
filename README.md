@@ -2,17 +2,48 @@
 
 O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamentar descentralizada para promover o desenvolvimento de jogos no Brasil de forma justa e adequada aos interesses da comunidade de desenvolvedores de jogos.
 
-# Sumario
 
-- [:material-file-edit:  Proposta](PROPOSTA.md) de projeto de lei.
-- [:material-vote: Consulta popular](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931
-  ) - Vote nao!
-- [::material-connection: Contexto](#contexto)
-- [:thinking: Filosofia](#filosofia)
-- [:octicons-goal-16: Objetivos](#objetivos)
-- [:man_construction_worker: Colabore](#colabore)
+<div class="grid cards" markdown>
 
-# Contexto
+-   :material-file-edit:{ .lg .middle } __Proposta__
+
+    ---
+
+    [:octicons-arrow-right-24: Leia a Contra-Proposta](PROPOSTA.md)
+
+    [:octicons-arrow-right-24: Proposta no senado](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206054).
+
+-   :material-vote:{ .lg .middle } __Vote na consulta popular__
+
+    ---
+
+    [:material-vote: Consulta popular](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931)
+
+    [:material-cancel: Vote Nao](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931){ .md-button .md-button--primary }
+
+-   :material-connection:{ .lg .middle } __Contexto__
+
+    ---
+
+    [:octicons-arrow-right-24: :material-connection: Contexto](#contexto)
+
+    [:octicons-arrow-right-24: :thinking: Filosofia](#filosofia)
+
+    [:octicons-arrow-right-24: :octicons-goal-16: Objetivos](#objetivos)
+
+    [:octicons-arrow-right-24: :man_construction_worker: Colabore](#colabore)
+
+-   :thinking:{ .lg .middle } __Racional__
+
+    ---
+
+    Iniciativa Open-source Descentralizada.
+
+    Assinado pelas comunidades de desenvolvedores de games. - WiP - Adicionar link para sessao do documento contendo lista de entidades que apoiam ou rejeitam a causa e como entrar em contato com eles.
+
+</div>
+
+## Contexto
 
 O CoPaJE tem como objetivo garantir que o Projeto de Lei do Marco Legal para Indústria de Jogos Eletrônicos ([PL 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) seja devidamente aprimorado e regulamentado, de forma a atender às necessidades e aspirações da massa de desenvolvedores no país.
 
