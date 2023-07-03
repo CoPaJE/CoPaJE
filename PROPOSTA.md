@@ -9,11 +9,6 @@
     5. Responda a possiveis pedidos de melhoria;
 
 
-## Para aprovação de mudanças nesta proposta, seguimos as seguintes normas:
-
-- [Normas]()
-
-
 ## Contexto
 
 - [Texto Original](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&disposition=inline)
