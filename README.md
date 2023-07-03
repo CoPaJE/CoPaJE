@@ -20,7 +20,7 @@ Aqui vao algumas iniciativas, comunidades e pessoas que estao contestando este P
 
     - [Abragames](https://www.abragames.org/)
     - [Ringdevrj](https://www.linkedin.com/company/ringdevrj/)
-    - (Abring)[https://www.linkedin.com/company/associa%C3%A7%C3%A3o-bring/]
+    - [Abring](https://www.linkedin.com/company/associa%C3%A7%C3%A3o-bring/)
     - [Adjogosrs](https://www.linkedin.com/company/adjogosrs/)
     - [ascgames](https://www.linkedin.com/company/ascgames/)   
 
