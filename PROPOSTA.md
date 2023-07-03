@@ -131,40 +131,20 @@ Parágrafo único. Para fins do disposto no caput deste artigo, o investimento e
 
 § 4º Observados a legislação trabalhista e os direitos das crianças e dos adolescentes, os adolescentes serão incentivados à programação e ao desenvolvimento de jogos eletrônicos.
 
-## Art. 14º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de comunicação de jogos eletronicos sob demanda, nos seguintes termos:
+## Art. 14º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos:
 
-- I – disposição em catálogo, de modo permanente, de um percentual de conteúdos de jogos eletronicos brasileiros determinado pelo Poder Executivo em regulamento, dos quais no mínimo metade tenham sido produzidos por produtora brasileira independente, considerando a capacidade econômica de cada agente, sua atuação no mercado brasileiro e produção total de títulos brasileiros nos cinco anos precedentes;
+Parágrafo único. Prover disposição em catálogo, de modo permanente, de uma vitrine digital na aba principal, contendo todos os jogos eletronicos brasileiros presentes no catálogo;
 
-- II – investimento direto na produção ou licenciamento de conteúdos de jogos eletronicos brasileiros, dos quais no mínimo metade tenham sido produzidos por produtora brasileira independente, e;
-
-- III – destaque na divulgação, visualização e buscas, de conteúdos de jogos eletronicos brasileiros, dos quais no mínimo metade tenham sido produzidos por produtora brasileira independente, através de exposição visual com realce na interface da plataforma de comunicação de jogos eletronicos sob demanda, mesmo nos casos em que se utilizem mecanismos de sugestão preferencial de obras, de forma a assegurar proeminência às mesmas em relação ao restante do catálogo, na forma do regulamento.
-
-§ 1º O percentual estabelecido no inciso I não será inferior a 30% do total de horas do catálogo ofertado.
-
-§ 2º A disposição de que trata o inciso III será aplicada aos vários gêneros ou categorias adotados nos mecanismos de busca e de oferta da provedora;
-
-§ 3º É vedado às provedoras de conteúdo de jogos eletronicos por demanda utilizarem-se de mecanismos para aumentar a proeminência de conteúdos de jogos eletronicos em desacordo com o disposto nesta Lei, devendo ainda precaverem-se contra tentativas de terceiros de aumentar artificiosamente a proeminência de determinados conteúdos de jogos eletronicos, conforme disposto em regulamento;
-
-§ 4º É vedada a utilização pelas provedoras de conteúdo de jogos eletronicos por demanda de quaisquer mecanismos para a aferição da utilização de conteúdos de jogos eletronicos que causem prejuízo à intimidade, vida privada, honra e imagem das pessoas e às liberdades e direitos individuais, observada a legislação relativa ao tratamento de dados e informações pessoais.
-
-§5º Para a fiscalização do cumprimento do disposto neste artigo, os algoritmos de busca, de seleção e de catalogação utilizados pelas provedoras de conteúdo de jogos eletronicos por demanda devem ser fornecidos ao Poder Executivo, quando solicitados, nos prazos e condições estabelecidos em regulamento.
-
-## Art. 15º O provedor do serviço de vídeo sob demanda investirá anualmente percentual de sua receita bruta na produção ou aquisição de direitos de licenciamento de obras de jogos eletronicos brasileiras.
+## Art. 15º O provedor do serviço de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos investirá anualmente percentual de sua receita bruta na produção ou aquisição de direitos de licenciamento de obras de jogos eletronicos brasileiras.
 
 § 1º O percentual a ser investido será proporcional à receita bruta anual obtida pelo provedor no exercício anterior ao do investimento, obedecendo aos seguintes percentuais e em apuração progressiva:
 
-- I – 0% (zero por cento) para a parcela de receita bruta anual até R$ 3.600.000,00 (três milhões e seiscentos mil reais);
+- I – 0% (zero por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, até 10.000.000 Ufir (dez milhões);
 
-- II – 1% (um por cento) para a parcela de receita bruta anual acima de R$ 3.600.000,01 (três milhões e seiscentos mil reais e um centavo) e até R$ 30.404.183,41 (trinta milhões e quatrocentos e quatro mil e cento e oitenta e três reais e quarenta e um centavos);
+- II – 1% (um por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 10.000.000 Ufir (dez milhões) e até 50.000.000 Ufir (cinquenta milhões);
 
-- III – 1,8% (um por cento e oito décimos) para a parcela de receita bruta anual acima de R$ 30.404.183,42 (trinta milhões e quatrocentos e quatro mil e cento e oitenta e três reais e quarenta e dois centavos) e até R$ 47.488.012,74 (quarenta e sete milhões e quatrocentos e oitenta e oito mil e doze reais e setenta e quatro centavos);
+- III – 1,5% (um por cento e cinco décimos) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 50.000.000 Ufir (cinquenta milhões) e até 200.000.000 Ufir (duzentos milhões);
 
-- IV – 2,5% (dois por cento e quatro décimos) para a parcela a receita bruta anual acima de R$ 47.488.012,75 (quarenta e sete milhões e quatrocentos e oitenta e oito mil e doze reais e setenta e cinco centavos) e até R$ 60.054.598,63 (sessenta milhões e cinquenta e quatro mil e quinhentos e noventa e oito reais e sessenta e três centavos);
-
-- V – 3,3% (três por cento e um décimo) para a parcela a receita bruta anual acima de R$ 60.054.598,64 (sessenta milhões e cinquenta e quatro mil e quinhentos e noventa e oito reais e sessenta e quatro centavos) e até R$ 70.000.000,00 (setenta milhões); e
-
-- VI – 4% (quatro por cento) para a parcela de receita bruta anual acima de R$ 70.000.000,00 (setenta milhões).
-
-§ 2º Fica facultado ao provedor de comunicação de jogos eletronicos sob demanda o recolhimento em favor do Fundo Setorial do Audiovisual – FSA de saldo, remanescente ou integral, decorrente da obrigação disposta neste artigo, na forma do regulamento. 
+- IV – 2% (dois por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 200.000.000 Ufir (duzentos milhões).
 
 ## Art. 16º Esta Lei entra em vigor na data de sua publicação, exceto em relação aos arts. 5º e 7º desta Lei, que entram em vigor em 1º de janeiro de 2024.
