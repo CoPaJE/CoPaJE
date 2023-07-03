@@ -15,9 +15,8 @@ nav:
     - Filosofia: /#filosofia
     - Objetivos: /#objetivos
   - Proposta: PROPOSTA.md
-  - Discuta: "https://github.com/CoPaJE/CoPaJE/issues/new/choose"
-  - Proponha: "https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md"
-  - Contato: /#colabore
+  - Discuta: CONTRIBUTING.md
+  - Contato: CONTRIBUTING.md
 
 theme:
   language: pt
