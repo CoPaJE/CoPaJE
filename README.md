@@ -5,6 +5,8 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamen
 # Sumario
 
 - [:material-file-edit:  Proposta](PROPOSTA.md) de projeto de lei.
+- [:material-vote: Consulta popular](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931
+  ) - Vote nao!
 - [::material-connection: Contexto](#contexto)
 - [:thinking: Filosofia](#filosofia)
 - [:octicons-goal-16: Objetivos](#objetivos)
