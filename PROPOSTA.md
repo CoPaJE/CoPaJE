@@ -131,4 +131,20 @@ Parágrafo único. Para fins do disposto no caput deste artigo, o investimento e
 
 § 4º Observados a legislação trabalhista e os direitos das crianças e dos adolescentes, os adolescentes serão incentivados à programação e ao desenvolvimento de jogos eletrônicos.
 
-## Art. 14º Esta Lei entra em vigor na data de sua publicação, exceto em relação aos arts. 5º e 7º desta Lei, que entram em vigor em 1º de janeiro de 2024.
+## Art. 14º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos:
+
+Parágrafo único. Prover disposição em catálogo, de modo permanente, de uma vitrine digital na aba principal, contendo todos os jogos eletronicos brasileiros presentes no catálogo;
+
+## Art. 15º O provedor do serviço de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos investirá anualmente percentual de sua receita bruta na produção ou aquisição de direitos de licenciamento de obras de jogos eletronicos brasileiras.
+
+§ 1º O percentual a ser investido será proporcional à receita bruta anual obtida pelo provedor no exercício anterior ao do investimento, obedecendo aos seguintes percentuais e em apuração progressiva:
+
+- I – 0% (zero por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, até 10.000.000 Ufir (dez milhões);
+
+- II – 1% (um por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 10.000.000 Ufir (dez milhões) e até 50.000.000 Ufir (cinquenta milhões);
+
+- III – 1,5% (um por cento e cinco décimos) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 50.000.000 Ufir (cinquenta milhões) e até 200.000.000 Ufir (duzentos milhões);
+
+- IV – 2% (dois por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 200.000.000 Ufir (duzentos milhões).
+
+## Art. 16º Esta Lei entra em vigor na data de sua publicação, exceto em relação aos arts. 5º e 7º desta Lei, que entram em vigor em 1º de janeiro de 2024.
