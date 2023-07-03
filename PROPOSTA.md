@@ -2,11 +2,12 @@
 
 !!! tip inline end "Como editar essa proposta" 
     
-    1. Tenha uma conta no github; 
-    2. Aperte no botao :pencil2: no canto superior direito; 
-    3. Edite e salve; 
-    4. Clique em Pull Request - Submeta sua mudanca para analise dos moderadores;
-    5. Responda a possiveis pedidos de melhoria;
+    1. Leia as [regras de contribuicao](CONTRIBUTING.md);
+    2. Tenha uma conta no github; 
+    3. Aperte no botao :pencil2: no canto superior direito; 
+    4. Edite e salve; 
+    5. Clique em Pull Request - Submeta sua mudanca para analise dos moderadores;
+    6. Responda a possiveis pedidos de melhoria;
 
 ## Contexto
 
