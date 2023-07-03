@@ -105,7 +105,7 @@ Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem 
 - [:material-file-edit: Edite](https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md) a [proposta](PROPOSTA.md). Crie uma conta no github, aperte no botao :pencil2: no canto superior direito.
 - [:simple-whatsapp: Whatsapp](https://chat.whatsapp.com/LELghAO8waM7yExBIvMB8p) Participe das nossas discussões e atividades.
 - Nos deixe [![GitHub Repo stars](https://img.shields.io/github/stars/CoPaJE/CoPaJE)](https://github.com/InfiniBrains/mobagen/stargazers) no nosso [repo](https://github.com/InfiniBrains/mobagen/stargazers).
-- Participe de abaixo assinados - WiP - Adicionar link aqui;
+- Participe de [abaixo assinados](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=154931);
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CoPaJE/CoPaJE&type=Date)](https://star-history.com/#CoPaJE/CoPaJE&Date)
 
