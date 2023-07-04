@@ -62,25 +62,31 @@ O CONGRESSO NACIONAL decreta:
 
 ## Art. 5º O termo generalista Profissional de jogos poderá ser utilizado em todo o território nacional para referir-se a todas as seguintes especialidades:
 
-- I - Produtor de jogos: a pessoa física que age desde o desenvolvimento da ideia inicial do jogo até o lançamento comercial, agindo na questão administrativa para jogos de entretenimento.
+- I - Produtor de jogos: a pessoa física que é responsável pela supervisão das equipes de desenvolvimento, estabelecimento de metas e prazos, gerenciamento de recursos e garantia que o jogo seja concluído dentro do orçamento e do cronograma estabelecido, atuando no gerenciamento e coordenação geral do processo de desenvolvimento para jogos de entretenimento.
 
-- II - Artista de jogos: a pessoa física que esboça e desenvolve artes físicas ou digitais, para jogos de entretenimento.
+- II - Roteirista de jogos: a pessoa física que é responsável por criar a narrativa, personagens, diálogos e história, para jogos de entretenimento.
 
-- III - Designer de jogos: a pessoa física que esboça, planeja e cria todos os aspectos para jogos de entretenimento.
+- III - Artista Visual de jogos: a pessoa física que é responsável pela criação dos elementos visuais do jogo, sendo físicas ou digitais, como personagens, cenários, objetos e efeitos especiais, para jogos de entretenimento.
 
-- IV - UI/UX Designer de jogos: a pessoa física que testa, acompanha e analisa toda a experiencia do usuário em jogos de entretenimento.
+- IV - Artista Sonoro de jogos: a pessoa física que é responsável pela criação e implementação dos elementos sonoros do jogo, incluindo efeitos sonoros, trilhas sonoras, música de fundo, dublagem e mixagem de áudio, para jogos de entretenimento.
 
-- V - Testador de jogos: a pessoa física que testa minuciosamente jogos eletrônicos ou analógicos, buscando analisar e relatar toda a experienciado usuário de jogos de entretenimento.
+- V - UI/UX Designer de jogos: a pessoa física que é responsável pelo design da interface humano computador de um jogo e pela experiência do jogador. Projetam os menus, os ícones, os elementos de navegação e a organização das informações do jogo para garantir que a interface seja intuitiva, agradável visualmente e proporcione uma experiência fluida e envolvente para jogos de entretenimento.
 
-- VI - Programador de jogos: a pessoa física que escreve em programação eletrônica, desenvolve ou faz manutenção de jogo eletrônico ou jogo de fantasia.
+- VI - Testador de jogos: a pessoa física que é responsável por identificar e relatar erros, bugs e problemas de jogabilidade em um jogo. Realizam testes extensivos para garantir que o jogo funcione corretamente, seja livre de erros e ofereça uma experiência de jogo suave para jogos de entretenimento.
 
-- VII - Desenvolvedor de jogos: a pessoa física que realiza todo o escopo de desenvolvimento de jogos de entretenimento, podendo cumprir todo ou parcialmente o papel informado nos incisos I, II, III, IV, V e VI deste artigo.
+- VII - Programador de jogos: a pessoa física que é responsável por escrever o código de programação que permite a funcionalidade e interação do jogo. Implementam as mecânicas do jogo, os sistemas de inteligência artificial, a lógica de jogo e outras funcionalidades técnicas, para jogos eletrônicos ou jogos de fantasia.
+
+- VIII - Agente de Cibersegurança de jogos: a pessoa física que é responsável por garantir a segurança e proteção dos sistemas, infraestrutura, dados e garantia do seguimento das boas práticas e leis vigentes relacionadas a segurança digital, como a lei nº 13.709, de 14 de agosto de 2018, para jogos eletrônicos ou jogos de fantasia.
+
+- IX - Designer de jogos: a pessoa física que é responsável por projetar a jogabilidade, as mecânicas, os sistemas do jogo, os desafios, as regras, as fases e as interações que compõem a experiência, para jogos de entretenimento. Atua em um escopo amplo, permitindo cumprir todo ou parcial, o papel informado nos incisos II, III, IV, V e VI deste artigo.
+
+- X - Desenvolvedor de jogos: a pessoa física que é responsável por criar e desenvolver jogos de entretenimento. Atua de forma geral ao desenvolvimento, permitindo cumprir todo ou parcial, o papel informado nos incisos I, II, III, IV, V, VI, VII, VIII e IX deste artigo.
 
 ## Art. 6º O termo generalista Profissional Digital Geral poderá ser utilizado em todo o território nacional para referir-se a todas as seguintes especialidades:
 
-- I - Artista digital: quem pode realizar as atividades do inciso II do artigo 5º, com também desenvolver artes digitais em geral.
+- I - Artista digital: a pessoa física que exerce um escopo geral das atividades relacionadas a arte digital, incluindo o inciso III e IV do artigo 5º, mas apenas relacionado a artes digitais.
 
-- II - Desenvolvedor: quem pode realizar as atividades do inciso VII do artigo 5º, como também desenvolver ou produzir software em geral e os publicar.
+- II - Desenvolvedor: a pessoa física que é responsável por criar e desenvolver aplicativos, softwares ou sistemas. Atua de forma geral ao desenvolvimento, permitindo cumprir todo ou parcial, o papel informado no inciso X do artigo 5º.
 
 ## Art. 7º O termo generalista Empresa Produtora de Jogos poderá ser utilizado em todo o território nacional para referir-se a todas as seguintes especialidades:
 
@@ -144,7 +150,7 @@ Parágrafo único. Para fins do disposto no caput deste artigo, considera-se com
 
 Parágrafo único. Para fins do disposto no caput deste artigo, o investimento em desenvolvimento de jogos eletrônicos ou jogos analógicos é considerado cultura.
 
-## Art. 15º Inclui as seguintes profissões de desenvolvedor independente, desenvolvedor de jogos independente, programador de jogos independente, testador de jogos independente, produtor de jogos independente, designer de jogos independente, UI/UX designer de jogos independente, artista digital independente e de artista de jogos independente, a lista de ocupações permitidas ao MEI, de acordo a lei complementar nº 123, de 14 de dezembro de 2006.
+## Art. 15º Inclui as seguintes profissões de desenvolvedor independente, desenvolvedor de jogos independente, programador de jogos independente, testador de jogos independente, produtor de jogos independente, designer de jogos independente, UI/UX designer de jogos independente, agente de cibersegurança de jogos independente, artista digital independente, artista sonoro de jogos independente e de artista visual de jogos independente, a lista de ocupações permitidas ao MEI, de acordo a lei complementar nº 123, de 14 de dezembro de 2006.
 
 ## Art. 16º O desenvolvimento de jogos eletrônicos é considerado pesquisa tecnológica e desenvolvimento de inovação tecnológica para fins de aproveitamento dos incentivos de que trata o Capítulo III da Lei nº 11.196, de 21 de novembro de 2005.
 
