@@ -6,12 +6,31 @@ Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem 
   ) - Vote nao na proposta para termos tempo de discutir ela.
 - [:material-file-edit: Edite](https://github.com/CoPaJE/CoPaJE/blob/main/PROPOSTA.md) a [proposta](PROPOSTA.md). Crie uma conta no github, aperte no botao :pencil2: no canto superior direito.
 - [:simple-whatsapp: Whatsapp](https://chat.whatsapp.com/LELghAO8waM7yExBIvMB8p) Participe das nossas discussões e atividades.
-- Nos deixe [![GitHub Repo stars](https://img.shields.io/github/stars/CoPaJE/CoPaJE)](https://github.com/InfiniBrains/mobagen/stargazers) no nosso [repo](https://github.com/InfiniBrains/mobagen/stargazers).
+- Nos deixe estrelinhas :star2: [![GitHub Repo stars](https://img.shields.io/github/stars/CoPaJE/CoPaJE)](https://github.com/InfiniBrains/mobagen/stargazers) no nosso [GitHub :simple-github:](https://github.com/InfiniBrains/mobagen/stargazers).
 - Participe de abaixo assinados - WiP - Adicionar link aqui;
 
 # Regras para colaborar
 
 ## Como escrever uma proposta de mudanca
+
+``` mermaid
+sequenceDiagram
+  autonumber
+  Colaborador->>CoPaJE: Fork do repositorio 
+  loop Edicao
+      Colaborador->>Colaborador: Edita os textos e arquivos
+  end
+  Colaborador-->>CoPaJE: Pull Request
+  CoPaJE-->>Moderadores: Novo PR
+  loop Melhorias 
+      Moderadores->>Colaborador: Pede alteracoes
+      Colaborador->>Colaborador: Edita os textos e arquivos
+      Colaborador-->>CoPaJE: Feito
+  end
+  Moderadores->>Moderadores: Votacao
+  Moderadores->>CoPaJE: Aprovado
+  CoPaJE->>CoPaJE: Publicacao
+```
 
 Buscamos ser o máximo aberto nesta questão, abrindo a todos a possibilidade de envio de propostas de mudanças em nosso democrático projeto de lei.
 
