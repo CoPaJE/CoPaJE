@@ -8,14 +8,14 @@ body:
       value: |
         Lembre sempre de analisar os problemas existente e além de ser assertivo trazer propostas de soluções.
   - type: textarea
-    id: problema a enfrentar
+    id: problema-a-enfrentar
     attributes:
       label: Problema
       description: |
         Faça uma descrição curta de qual problema a enfrentar.
       placeholder: Descreva o problema e como ele nos impede de performar melhor.
   - type: textarea
-    id: solução abordada
+    id: solucao-abordada
     attributes:
       label: Solução
       description: |
@@ -24,7 +24,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: vantagens da solução
+    id: vantagens-da-solução
     attributes:
       label: Vantagens
       description: |
@@ -33,7 +33,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: desvantagens de manter o problema
+    id: desvantagens-do-problema
     attributes:
       label: Desvantagens
       description: |
