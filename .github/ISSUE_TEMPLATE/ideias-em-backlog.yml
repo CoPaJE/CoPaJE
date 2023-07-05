@@ -1,0 +1,35 @@
+name: Backlog de Idéias
+description: Idéia relacionada ao Projeto de Lei 2.769/2021 porém sem discussão aprofundada para definição da melhor abordagem de implementação.
+title: "[Ideia]: "
+labels: ["ideia", "backlog", "discussão", "triage"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por contribuir com o CoPaJE! Antes de incluir uma nova ideia, por favor, verifique se ela já não existe.
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: |
+        Descreva a sua ideia. Qual o objetivo? Que pontos a tornam relevantes para ser incorporada ao projeto de lei? Qual a ação necessária para dar continuidade à mesma?
+      placeholder: Descreva a sua ideia. Qual o objetivo? Que pontos a tornam relevantes para ser incorporada ao projeto de lei? Qual a ação necessária para dar continuidade à mesma?
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Descrição
+      description: |
+        Descreva a ideia, objetivos e pontos relevantes.
+      placeholder: Descreva a ideia, objetivos e pontos relevantes.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Termos
+      description: |
+        Por favor, marque a caixa abaixo para indicar que você leu e concorda com os termos da comunidade.
+      options:
+        - label: Eu li e concordo com os termos de contribuicao comunidade no link abaixo ⬇️.
+          required: true
