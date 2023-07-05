@@ -26,8 +26,28 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y doxygen gource libgs-dev gource ffmpeg libnetpbm10-dev libnetpbm10 libavfilter-dev libavdevice-dev libavcodec-dev libavformat-dev libswscale-dev libavutil-dev libpostproc-dev libswresample-dev libavcodec-extra libavutil-dev
+          sudo apt-get install -y doxygen gource libgs-dev
           pip install git+https://${{ secrets.GH_SQUID_TOKEN }}@github.com/squidfunk/mkdocs-material-insiders.git
           pip install jinja2 Pygments mkdocs mkdocs-same-dir mkdocs-minify-plugin mkdocs-redirects mkdocs-exclude mkdocs-git-committers-plugin-2 mkdocs-git-revision-date-localized-plugin mkdocs-with-pdf
-          ./repogource.sh
-      - run: mkdocs gh-deploy --force
+
+      - run: mkdocs build
+
+      - name: 'Gource Action'
+        uses: nbprojekt/gource-action@v1
+        with:
+          gource_title: 'Docker CLI'
+          logo_url: 'overrides/favicon/android-chrome-192x192.png'
+          gource_resolution: '720p'
+          gource_fps: 60
+#          avatars_url: colaboradores
+          avatars_auto_fetch: true
+          gource_seconds_per_day: 1.5
+          gource_hide_items: mouse
+
+      - run: cp ./gource/gource.mp4 site/gource.mp4
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site
