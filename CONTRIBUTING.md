@@ -75,7 +75,7 @@ Visando deixar agil o processo de melhoria do projeto de lei, as propostas de mu
 
 - 3 - Alto Impacto: corresponde a alterar ou remover textos existentes. Possui a tag [proposta-n3-alta]. São aprovadas por votação em 2/3 pelos Membros Organizadores.
 
-### Como se torna um Membro Atuante
+### Sobre os Membros Atuantes
 
 É possivel se tornar facilmente um Membro Atuante, através das seguintes 3 ações:
 
@@ -89,13 +89,13 @@ Assim, garantimos que todos que partipam, sejam pessoas engajadas e que de fato 
 
 E para se manter como Membro Atuante, é apenas continuar propondo ações, votando em propostas, interagindo e compartilhando as atividades do movimento.
 
-### Quem são os Membros Organizadores
+### Sobre os Membros Organizadores
 
-Membros Organizadores são formadas pelos líderes e porta vozes do movimento, bem como, podem participar apoiadores financeiros ou jurídicos.
+Membros Organizadores são formados pelos líderes e porta vozes do movimento, bem como, podem participar apoiadores financeiros ou jurídicos.
 
 Aqui consiste o núcleo de decisão para manter coeso o movimento, seguindo as nossas bases pétreas de liberdade, descentralização, inclusão e colaboração.
 
-Novos Membros Organizadores são aceitos, por votação em 2/3 pelos próprios Membros Organizadores.
+Para adicionar ou remover Membros Organizadores, Membros Atuantes e Moderadores, é necessário votação em 2/3 pelos próprios Membros Organizadores.
 
 Um Membro Organizador, também é Membro Atuante.
 
