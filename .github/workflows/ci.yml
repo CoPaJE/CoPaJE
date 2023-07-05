@@ -35,16 +35,16 @@ jobs:
       - name: 'Gource Action'
         uses: nbprojekt/gource-action@v1
         with:
-          gource_title: 'Docker CLI'
+          gource_title: 'CoPaJE'
           logo_url: 'overrides/favicon/android-chrome-192x192.png'
-          gource_resolution: '720p'
+          gource_resolution: '1080p'
           gource_fps: 60
 #          avatars_url: colaboradores
           avatars_auto_fetch: true
-          gource_seconds_per_day: 1.5
+          gource_seconds_per_day: 2
           gource_hide_items: mouse
 
-      - run: cp ./gource/gource.mp4 site/gource.mp4
+      - run: cp ./gource/gource.mp4 ./site/gource.mp4
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
