@@ -26,8 +26,8 @@ jobs:
       - name: Install dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y doxygen gource libgs-dev
+          sudo apt-get install -y doxygen gource libgs-dev gource ffmpeg
           pip install git+https://${{ secrets.GH_SQUID_TOKEN }}@github.com/squidfunk/mkdocs-material-insiders.git
           pip install jinja2 Pygments mkdocs mkdocs-same-dir mkdocs-minify-plugin mkdocs-redirects mkdocs-exclude mkdocs-git-committers-plugin-2 mkdocs-git-revision-date-localized-plugin mkdocs-with-pdf
-#      - run: pip install mkdocs-material mkdocs-same-dir
+          ./repogource.sh
       - run: mkdocs gh-deploy --force

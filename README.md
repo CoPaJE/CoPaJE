@@ -103,6 +103,10 @@ Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CoPaJE/CoPaJE&type=Date)](https://star-history.com/#CoPaJE/CoPaJE&Date)
 
+<video controls>
+  <source src="gource.mp4" type="video/mp4">
+</video>
+
 ## ToDo:
 - [X] Tutorial de como contribuir;
     - [X] CONTRIBUTING.md;
