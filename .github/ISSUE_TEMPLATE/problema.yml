@@ -24,7 +24,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: vantagens-da-solução
+    id: vantagens-da-solucao
     attributes:
       label: Vantagens
       description: |
