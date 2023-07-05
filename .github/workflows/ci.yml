@@ -46,6 +46,8 @@ jobs:
 
       - run: cp ./gource/gource.mp4 ./site/gource.mp4
 
+      - run: cp ./CNAME ./site/
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
