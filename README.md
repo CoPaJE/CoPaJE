@@ -49,15 +49,7 @@ O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamen
 
 O CoPaJE tem como objetivo garantir que o Projeto de Lei do Marco Legal para Indústria de Jogos Eletrônicos ([PL 2.769/2021](https://legis.senado.leg.br/sdleg-getter/documento?dm=9206085&ts=1687468895929&disposition=inline)) seja devidamente aprimorado e regulamentado, de forma a atender às necessidades e aspirações da massa de desenvolvedores no país.
 
-Aqui vao algumas iniciativas, comunidades e pessoas que estao contestando este PL. ([veja como editar essa lista](#colabore))
-
-!!! note
-
-    - [Abragames](https://www.abragames.org/)
-    - [Ringdevrj](https://www.linkedin.com/company/ringdevrj/)
-    - [Abring](https://www.linkedin.com/company/associa%C3%A7%C3%A3o-bring/)
-    - [Adjogosrs](https://www.linkedin.com/company/adjogosrs/)
-    - [ascgames](https://www.linkedin.com/company/ascgames/)   
+WiP. Adicionar empresas e entidades que apoiam a projeto. ([veja como editar essa lista](#colabore))
 
 ## Filosofia
 
