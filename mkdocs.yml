@@ -15,8 +15,10 @@ nav:
     - Filosofia: /#filosofia
     - Objetivos: /#objetivos
   - Cobre: cobre.md
-  - Contra-Proposta: PROPOSTA.md
   - Colabore: CONTRIBUTING.md
+  - Contra-Proposta: PROPOSTA.md
+  - Transparencia:
+    - Reuniões: MINUTES.md
 
 theme:
   language: pt
