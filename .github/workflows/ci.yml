@@ -48,6 +48,8 @@ jobs:
 
       - run: cp ./CNAME ./site/
 
+      - run: cp ./robots.txt ./site/
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
