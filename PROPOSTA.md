@@ -65,7 +65,7 @@ O CONGRESSO NACIONAL decreta:
 
 - I - Jogo digital: é caracterizado pela ausência de mídias físicas, pois são geralmente baixados ou transmitidos online, sem a necessidade de um disco físico.
 
-- II - Jogo físico: é caracterizado por ser distribuída e jogada por meio de mídias físicas, como discos ópticos, cartuchos ou outros meios tangíveis.
+- II - Jogo físico: é caracterizado por ser distribuída e jogada por meio de mídias físicas, como discos ópticos, cartuchos, livros, tabuleiros, cartas ou outros meios tangíveis.
 
 ## Art. 6º O termo generalista Profissional de jogos poderá ser utilizado em todo o território nacional para referir-se a todas as seguintes especialidades:
 
@@ -77,17 +77,21 @@ O CONGRESSO NACIONAL decreta:
 
 - IV - Artista Sonoro de jogos: a pessoa física que é responsável pela criação e implementação dos elementos sonoros do jogo, incluindo efeitos sonoros, trilhas sonoras, música de fundo, dublagem e mixagem de áudio, para jogos de entretenimento.
 
-- V - UI/UX Designer de jogos: a pessoa física que é responsável pelo design da interface humano computador de um jogo e pela experiência do jogador. Projetam os menus, os ícones, os elementos de navegação e a organização das informações do jogo para garantir que a interface seja intuitiva, agradável visualmente e proporcione uma experiência fluida e envolvente para jogos de entretenimento.
+- V - UI Designer de jogos: a pessoa física que é responsável pelo design da interface humano computador de um jogo. Projetam os menus, os ícones, os elementos de navegação e a organização das informações do jogo para garantir que a interface seja intuitiva, agradável visualmente e proporcione uma experiência fluida e envolvente para jogos de entretenimento.
 
-- VI - Testador de jogos: a pessoa física que é responsável por identificar e relatar erros, bugs e problemas de jogabilidade em um jogo. Realizam testes extensivos para garantir que o jogo funcione corretamente, seja livre de erros e ofereça uma experiência de jogo suave para jogos de entretenimento.
+- VI - UX Designer de jogos: a pessoa física que é responsável por projetar e aprimorar a experiência do usuário. Realizam pesquisas para entender as necessidades, comportamentos e preferências dos usuários, criam fluxos de interação, wireframes e protótipos que definem a estrutura e a funcionalidade de um jogo e realiza testes com usuários reais para avaliar a eficácia e a usabilidade para jogos de entretenimento.
 
-- VII - Programador de jogos: a pessoa física que é responsável por escrever o código de programação que permite a funcionalidade e interação do jogo. Implementam as mecânicas do jogo, os sistemas de inteligência artificial, a lógica de jogo e outras funcionalidades técnicas, para jogos eletrônicos ou jogos de fantasia.
+- VII - Marketing de jogos: a pessoa física que é responsável que se concentra na promoção e comercialização de jogos.
 
-- VIII - Agente de Cibersegurança de jogos: a pessoa física que é responsável por garantir a segurança e proteção dos sistemas, infraestrutura, dados e garantia do seguimento das boas práticas e leis vigentes relacionadas a segurança digital, como a lei nº 13.709, de 14 de agosto de 2018, para jogos eletrônicos ou jogos de fantasia.
+- VIII - Testador de jogos: a pessoa física que é responsável por identificar e relatar erros, bugs e problemas de jogabilidade em um jogo. Realizam testes extensivos para garantir que o jogo funcione corretamente, seja livre de erros e ofereça uma experiência de jogo suave para jogos de entretenimento.
 
-- IX - Designer de jogos: a pessoa física que é responsável por projetar a jogabilidade, as mecânicas, os sistemas do jogo, os desafios, as regras, as fases e as interações que compõem a experiência, para jogos de entretenimento. Atua em um escopo amplo, permitindo cumprir todo ou parcial, o papel informado nos incisos II, III, IV, V e VI deste artigo.
+- IX - Programador de jogos: a pessoa física que é responsável por escrever o código de programação que permite a funcionalidade e interação do jogo. Implementam as mecânicas do jogo, os sistemas de inteligência artificial, a lógica de jogo e outras funcionalidades técnicas, para jogos eletrônicos ou jogos de fantasia.
 
-- X - Desenvolvedor de jogos: a pessoa física que é responsável por criar e desenvolver jogos de entretenimento. Atua de forma geral ao desenvolvimento, permitindo cumprir todo ou parcial, o papel informado nos incisos I, II, III, IV, V, VI, VII, VIII e IX deste artigo.
+- X - Agente de Cibersegurança de jogos: a pessoa física que é responsável por garantir a segurança e proteção dos sistemas, infraestrutura, dados e garantia do seguimento das boas práticas e leis vigentes relacionadas a segurança digital, como a lei nº 13.709, de 14 de agosto de 2018, para jogos eletrônicos ou jogos de fantasia.
+
+- XI - Designer de jogos: a pessoa física que é responsável por projetar a jogabilidade, as mecânicas, os sistemas do jogo, os desafios, as regras, as fases e as interações que compõem a experiência, para jogos de entretenimento. Atua em um escopo amplo, permitindo cumprir todo ou parcial, o papel informado nos incisos II, III, IV, V e VI deste artigo.
+
+- XII - Desenvolvedor de jogos: a pessoa física que é responsável por criar e desenvolver jogos de entretenimento. Atua de forma geral ao desenvolvimento, permitindo cumprir todo ou parcial, o papel informado nos incisos I, II, III, IV, V, VI, VII, VIII e IX deste artigo.
 
 ## Art. 7º O termo generalista Profissional Digital Geral poderá ser utilizado em todo o território nacional para referir-se a todas as seguintes especialidades:
 
@@ -108,7 +112,8 @@ O CONGRESSO NACIONAL decreta:
 - II - Provedor de serviço digital de jogos eletronicos sob demanda: a pessoa jurídica que disponibiliza para uso, dentro ou relacionado ao serviço prestado, de jogos eletrônicos.
 
 
-# Capítulo II - Dos direitos, deveres e garantias aos jogos em geral
+
+# Capítulo II - Dos direitos, deveres e garantias aos jogos de entretenimento
 
 ## Art. 10º São livres a fabricação, a importação, a exportação, a comercialização, o desenvolvimento de jogos eletrônicos, jogos analógicos e a prestação de serviços de entretenimento vinculados aos jogos de fantasia.
 
@@ -153,15 +158,11 @@ Parágrafo único. Para fins do disposto no caput deste artigo, o investimento e
 
 Parágrafo único. Para fins do disposto no caput deste artigo, considera-se como atividade de baixo risco.
 
-## Art. 16º Aplica-se às Empresas Produtoras de Jogos, exclusivamente de jogos eletrônicos e jogos analógicos, o dispostos no art. --- X --- da Lei nº 8.313, de 23 de dezembro de 1991. 
+## Art. 16º Inclui as seguintes profissões de Produtor de jogos independente, Roteirista de jogos independente, Artista Visual de jogos independente, Artista Sonoro de jogos independente, UI Designer de jogos independente, UX Designer de jogos independente, Marketing de jogos independente, Testador de jogos independente, Programador de jogos independente, Agente de Cibersegurança de jogos independente, Designer de jogos independente, Desenvolvedor de jogos independente, Artista Digital independente e Desenvolvedor independente a lista de ocupações permitidas ao MEI, de acordo a lei complementar nº 123, de 14 de dezembro de 2006.
 
-Parágrafo único. Para fins do disposto no caput deste artigo, o investimento em desenvolvimento de jogos eletrônicos ou jogos analógicos é considerado cultura.
+## Art. 17º O desenvolvimento de jogos eletrônicos é considerado pesquisa tecnológica e desenvolvimento de inovação tecnológica para fins de aproveitamento dos incentivos de que trata o Capítulo III da Lei nº 11.196, de 21 de novembro de 2005.
 
-## Art. 17º Inclui as seguintes profissões de desenvolvedor independente, desenvolvedor de jogos independente, programador de jogos independente, testador de jogos independente, produtor de jogos independente, designer de jogos independente, UI/UX designer de jogos independente, agente de cibersegurança de jogos independente, artista digital independente, artista sonoro de jogos independente e de artista visual de jogos independente, a lista de ocupações permitidas ao MEI, de acordo a lei complementar nº 123, de 14 de dezembro de 2006.
-
-## Art. 18º O desenvolvimento de jogos eletrônicos é considerado pesquisa tecnológica e desenvolvimento de inovação tecnológica para fins de aproveitamento dos incentivos de que trata o Capítulo III da Lei nº 11.196, de 21 de novembro de 2005.
-
-## Art. 19º O Estado apoiará a formação de recursos humanos para a indústria de jogos eletrônicos, nos termos do § 3º do art. 218 da Constituição Federal.
+## Art. 18º O Estado apoiará a formação de recursos humanos para a indústria de jogos eletrônicos, nos termos do § 3º do art. 218 da Constituição Federal.
 
 § 1º O apoio poderá ser feito por meio de:
 
@@ -173,9 +174,17 @@ Parágrafo único. Para fins do disposto no caput deste artigo, o investimento e
 
 § 3º Observados a legislação trabalhista e os direitos das crianças e dos adolescentes, os adolescentes serão incentivados à programação e ao desenvolvimento de jogos eletrônicos.
 
-## Art. 20º Para o exercício da profissão de Profissional de Jogos e Profissional Digital Generalista, não será exigido diploma, quaisquer qualificações ou licença Estado. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+## Art. 19º Para o exercício da profissão de Profissional de Jogos e Profissional Digital Generalista, não será exigido diploma, quaisquer qualificações ou licença Estado. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
 
-## Art. 21º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de altorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+## Art. 20º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de altorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+
+
+
+# Capítulo III - Da promoção cultural aos jogos eletrônicos e jogos analógicos
+
+## Art. 21º Aplica-se às Empresas Produtoras de Jogos, exclusivamente de jogos eletrônicos e jogos analógicos, o dispostos no art. --- X --- da Lei nº 8.313, de 23 de dezembro de 1991. 
+
+Parágrafo único. Para fins do disposto no caput deste artigo, o investimento em desenvolvimento de jogos eletrônicos ou jogos analógicos é considerado cultura.
 
 ## Art. 22º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de serviço digital de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos:
 
@@ -193,4 +202,4 @@ Parágrafo único. Prover disposição em catálogo, de modo permanente, de uma 
 
 - IV – 2% (dois por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 200.000.000 Ufir (duzentos milhões).
 
-## Art. 24º Esta Lei entra em vigor na data de sua publicação, exceto em relação aos arts. 5º e 7º desta Lei, que entram em vigor em 1º de janeiro de 2024.
+## Art. 24º Esta Lei entra em vigor na data de sua publicação, exceto em relação aos arts. Xº, Y, ... e Zº desta Lei, que entram em vigor em 1º de janeiro de 2024.
