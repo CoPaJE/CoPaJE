@@ -1,7 +1,6 @@
 # CoPaJE
 
-O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) é uma iniciativa parlamentar descentralizada para promover o desenvolvimento de jogos no Brasil de forma justa e adequada aos interesses da comunidade de desenvolvedores de jogos.
-
+O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) surgiu como uma iniciativa descentralizada que visa esclacer e melhorar o PL2796 de 2021 que modificou o projeto original para incluir "Jogos de Fantasia" discussao suficiente ou consideracao com outros setores de jogos.
 
 <div class="grid cards" markdown>
 

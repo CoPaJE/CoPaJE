@@ -14,9 +14,9 @@ nav:
     - Proposta: PROPOSTA.md
     - Filosofia: /#filosofia
     - Objetivos: /#objetivos
-  - Proposta: PROPOSTA.md
-  - Discuta: CONTRIBUTING.md
-  - Contato: CONTRIBUTING.md
+  - Cobre: cobre.md
+  - Contra-Proposta: PROPOSTA.md
+  - Colabore: CONTRIBUTING.md
 
 theme:
   language: pt
