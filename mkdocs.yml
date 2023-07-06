@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: CoPaJE
-site_description: Comissao Parlamentar de Jogos Eletronicos
+site_description: Conselho Parlamentar de Jogos Eletronicos
 site_url: https://copaje.com/
 repo_url: https://github.com/CoPaJE/CoPaJE
 edit_uri: blob/main/

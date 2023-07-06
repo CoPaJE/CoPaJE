@@ -1,6 +1,10 @@
+---
+keywords: PL2769, copaje, jogos de fantasia, github, games, jogos, jogos eletronicos, jogos digitais, jogos de computador
+---
+
 # CoPaJE
 
-O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) surgiu como uma iniciativa descentralizada que visa esclacer e melhorar o PL2796 de 2021 que modificou o projeto original para incluir "Jogos de Fantasia" discussao suficiente ou consideracao com outros setores de jogos.
+O Conselho Parlamentar de Jogos Eletrônicos (CoPaJE) surgiu como uma iniciativa descentralizada que visa esclacer e melhorar o PL2796 de 2021 que modificou o projeto original para incluir "Jogos de Fantasia" sem discussao suficiente ou consideracao com outros setores de jogos.
 
 <div class="grid cards" markdown>
 
@@ -106,23 +110,3 @@ Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem 
   <source src="gource.mp4" type="video/mp4">
 </video>
 
-## ToDo:
-- [X] Tutorial de como contribuir;
-    - [X] CONTRIBUTING.md;
-    - [ ] YouTube tutoriais or GIF;
-    - [ ] Como fazer mudanças via browser;
-    - [ ] Como submeter issues;
-    - [ ] Como fazer clone/push/merge (opcional);
-- [X] Escrever filosofias e objetivos;
-- [X] Copiar a proposta e esboco de documento para o Repo;
-- [X] Templates para propostas de melhorias;
-- [X] Templates para issues;
-- [ ] Templates para merge requests;
-- [ ] Listar companhias, grupos, empresas, deputados e senadores que apoiam a causa;
-- [ ] Listar todas iniciativas de abaixo assinado relacionado ao tema;
-- [ ] Descrição de como apoiar a causa;
-- [ ] Canal de transparência de gastos com open-collective ou outro;
-- [ ] Website
-    - [ ] Logo;
-    - [ ] SEO;
-    - [X] Analytics;
