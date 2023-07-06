@@ -9,11 +9,11 @@
     Se voce representa alguem, grupo ou entidade, favor adicionar o seu contato na lista abaixo. [Saiba mais](CONTRIBUTING.md)
 
 - [Como Cobrar](#como-cobrar)
-- [Senadores](#senadores)
-- [Deputados](#deputados)
-- [Empresas](#empresas)
-- [Comunidades](#comunidades)
-- [Influencers](#influencers)
+    - [Senadores](#senadores)
+    - [Deputados](#deputados)
+    - [Empresas](#empresas)
+    - [Comunidades](#comunidades)
+    - [Influencers](#influencers)
 
 ## Como Cobrar
 
