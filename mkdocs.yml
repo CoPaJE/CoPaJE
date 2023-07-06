@@ -163,9 +163,9 @@ markdown_extensions:
 
 
 extra:
-#  analytics:
-#    provider: google
-#    property: G-347541715
+  analytics:
+    provider: google
+    property: G-6V22ZVLJ57
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/CoPaJE
