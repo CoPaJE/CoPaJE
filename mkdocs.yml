@@ -97,6 +97,8 @@ docs_dir: . # in order to use README.md as index.md
 
 plugins:
   - same-dir
+  - social:
+      cards_layout: default/accent
   - git-committers:
       repository: CoPaJE/CoPaJE
       branch: main
