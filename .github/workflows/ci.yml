@@ -93,3 +93,10 @@ jobs:
           allowUpdates: true
           artifacts: site/pdf/document.pdf
           tag: ${{ steps.version.outputs.version }}
+
+      - uses: ncipollo/release-action@v1
+        if: github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main' #|| startsWith(github.ref, 'refs/tags')
+        with:
+          allowUpdates: true
+          artifacts: site/pdf/document.pdf
+          tag: latest
