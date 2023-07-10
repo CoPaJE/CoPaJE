@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/CoPaJE/CoPaJE/compare/v1.1.3...v1.1.4) (2023-07-10)
+
+
+### Bug Fixes
+
+* bug relacionado a criar versao com nome vazio v ([818326d](https://github.com/CoPaJE/CoPaJE/commit/818326d7b29c3179b02c243c9f6f1f466d0fb831))
+
 ## [1.1.3](https://github.com/CoPaJE/CoPaJE/compare/v1.1.2...v1.1.3) (2023-07-10)
 
 
