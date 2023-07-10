@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/CoPaJE/CoPaJE/compare/v1.0.0...v1.1.0) (2023-07-10)
+
+
+### Features
+
+* remove changelog das builds de pdf ([9515f37](https://github.com/CoPaJE/CoPaJE/commit/9515f377c8908087e86bdeca7c261deee2bb2092))
+
 # 1.0.0 (2023-07-10)
 
 
