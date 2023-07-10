@@ -79,7 +79,7 @@ jobs:
           export commit=`git rev-list --tags --max-count=1`
           echo $commit
           export last_release_version=`git describe --abbrev=0 --tags $tag`
-          ecdo $last_release_version
+          echo $last_release_version
           export new_release_version=v${{ steps.semantic.outputs.new_release_version }}
           echo $new_release_version
           export version=${new_release_version:-$last_release_version}
