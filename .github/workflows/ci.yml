@@ -81,7 +81,7 @@ jobs:
           then     
             export version=v${{ steps.semantic.outputs.new_release_version }}
           else
-            export version=v${{ steps.semantic.outputs.last_release_version }}
+            export version=`git describe --abbrev=0 --tags $tag`
           fi     
           echo $version
           echo "version=${version}" >> $GITHUB_OUTPUT
