@@ -29,6 +29,22 @@ Aqui vao alguns exemplos de como fazer isso, mas sinta-se livre para criar o seu
 
 ### Exemplos de Emails:
 
+Caro Senador Rodrigo Pacheco,
+
+Venho por este e-mail me posicionar contra o texto atual do PL XXXXX sobre o marco legal dos jogos.
+O texto atual não cobre as expectativas e necessidades dos profissionais atuantes no desenvolvimento de jogos.
+Entendo que um marco legal deve se posicionar de forma justa, abarcando as principais necessidades dos grupos envolvidos.
+
+Tal tipo de lei deve ser inclusiva e facilitadora, o que não consigo enxergar na versão atual em trâmite no senado.
+Há pontos que deveriam estar mais claros e deixam brechas enormes que poderão ser utilizadas de forma controversa no futuro.
+
+Peço encarecidamente que reconsidere uma revisão neste texto com base na seguinte proposta. [https://copaje.com/PROPOSTA/](https://copaje.com/PROPOSTA/)
+
+Agradeço desde já a atenção.
+Contamos com você
+
+<Nome/Assinatura>
+
 ### Exemplos de como marcar influencers em redes sociais:
 
 ### Exemplos de como ligar para os telefones dos senadores:

@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: CoPaJE
-site_description: Conselho Parlamentar de Jogos Eletronicos
+site_name: "CoPaJE - Conselho Parlamentar de Jogos Eletronicos"
+site_description: "CoPaJE - Conselho Parlamentar de Jogos Eletronicos. Contra-Proposta ao PL2796/2021."
 site_url: https://copaje.com/
 repo_url: https://github.com/CoPaJE/CoPaJE
 edit_uri: blob/main/
 
-site_author: All Contributors. See https://github.com/CoPaJE/CoPaJE/graphs/contributors
+site_author: "Comunidades de desenvolvedores de jogos: https://copaje.com"
 
 nav:
   - Home:
@@ -113,6 +113,47 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify
+  - with-pdf:
+      enabled_if_env: CI
+      toc_level: 2
+      exclude_pages:
+        - 'cobre'
+        - 'README'
+        - 'CONTRIBUTING'
+        - 'MINUTES'
+        - ^$
+      verbose: true
+    #author: WHO
+#      copyright: MIT
+    #
+    #cover: false
+    #back_cover: true
+      cover_title: "Conselho Parlamentar de Jogos Eletronicos"
+      cover_subtitle: "Contra-Proposta Open-source, Comunitaria e Distribuida ao PL2796/2021"
+    #custom_template_path: TEMPLATES PATH
+    #
+      toc_title: Indice
+      heading_shift: false
+      ordered_chapter_level: 0
+      excludes_children:
+         - 'PROPOSTA/:__comments'
+         - 'PROPOSTA/:contexto'
+         - 'PROPOSTA/:leis-que-este-projeto-aponta'
+    #convert_iframe:
+    #    - src: IFRAME SRC
+    #      img: POSTER IMAGE URL
+    #      text: ALTERNATE TEXT
+    #    - src: ...
+      two_columns_level: 0
+    #
+    #render_js: true
+    #headless_chrome_path: headless-chromium
+    #
+    #output_path: any-place/document.pdf
+    #
+    #debug_html: true
+      show_anchors: false
+    #verbose: true
   - exclude:
       glob:
         - node_modules/*
