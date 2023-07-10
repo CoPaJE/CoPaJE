@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/CoPaJE/CoPaJE/compare/v1.1.0...v1.1.1) (2023-07-10)
+
+
+### Bug Fixes
+
+* echo debug for github ci actions ([563f8a3](https://github.com/CoPaJE/CoPaJE/commit/563f8a39652e0fe4b9772435ea2b9ea35e9589f8))
+
 # [1.1.0](https://github.com/CoPaJE/CoPaJE/compare/v1.0.0...v1.1.0) (2023-07-10)
 
 
