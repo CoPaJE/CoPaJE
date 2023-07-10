@@ -102,4 +102,3 @@ jobs:
           allowUpdates: true
           artifacts: site/pdf/document.pdf
           tag: ${{ steps.version.outputs.version }}
-
