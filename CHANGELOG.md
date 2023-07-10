@@ -1,3 +1,10 @@
+## [1.1.5](https://github.com/CoPaJE/CoPaJE/compare/v1.1.4...v1.1.5) (2023-07-10)
+
+
+### Bug Fixes
+
+* mostrar nomes e % de colaboracao no texto ([212a6c7](https://github.com/CoPaJE/CoPaJE/commit/212a6c77e4a44caf90ed2cd98f38bbf42e398e46))
+
 ## [1.1.4](https://github.com/CoPaJE/CoPaJE/compare/v1.1.3...v1.1.4) (2023-07-10)
 
 
