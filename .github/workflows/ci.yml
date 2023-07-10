@@ -76,16 +76,13 @@ jobs:
       - name: version
         id: version
         run: |
-          echo ${{ steps.semantic.outputs.last_release_version }}
           if [[ ${{ steps.semantic.outputs.new_release_published }} == true ]]
           then     
             export version=v${{ steps.semantic.outputs.new_release_version }}
           else
             export version=`git describe --abbrev=0 --tags $tag`
-          fi     
-          echo $version
+          fi
           echo "version=${version}" >> $GITHUB_OUTPUT
-          echo $GITHUB_OUTPUT
 
       - name: Latest pdf
         uses: ncipollo/release-action@v1
