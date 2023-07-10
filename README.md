@@ -1,5 +1,5 @@
 ---
-keywords: PL2769, copaje, jogos de fantasia, github, games, jogos, jogos eletronicos, jogos digitais, jogos de computador
+keywords: PL2769, marco legal dos games, copaje, jogos de fantasia, github, games, jogos, jogos eletronicos, jogos digitais, jogos de computador, democracia colaborativa
 ---
 
 # CoPaJE
