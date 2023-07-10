@@ -77,7 +77,7 @@ jobs:
         id: version
         run: |
           echo ${{ steps.semantic.outputs.last_release_version }}
-          if [ ${{ steps.semantic.outputs.new_release_published }} ]
+          if [[ ${{ steps.semantic.outputs.new_release_published }} == true ]]
           then     
             export version=v${{ steps.semantic.outputs.new_release_version }}
           else
