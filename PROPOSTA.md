@@ -121,7 +121,7 @@ O CONGRESSO NACIONAL decreta:
 
 - I - Fará de forma gratuita.
 - II - Do inicio do pedido ao fim do processo com a obtenção da classificação etária do jogo, discorrerá um prazo máximo de 60 dias. Caso não haja a entrega de classificação neste periodo, o publicador do Jogo poderá realizar uma auto classificação etária.
-- III - Caso o jogo for disponibilizado de forma digital, será opcional a obtenção de classificação etária pelo Estado, permintindo que o próprio publicador do jogo realize uma auto classificação etária. Neste caso, precisa estar avisado ao consumidor, previamente antes do uso ou compra do jogo, que se trata de uma auto classificação.
+- III - Caso o jogo for disponibilizado de forma digital, será opcional a obtenção de classificação etária pelo Estado, permitindo que o próprio publicador do jogo realize uma auto classificação etária. Neste caso, precisa estar avisado ao consumidor, previamente antes do uso ou compra do jogo, que se trata de uma auto classificação.
 - IV - A auto classificação etária, apenas poderá ser contestada, através de pedido com mínimo de 50.000 assinaturas de pessoas físicas, recolhidas em prazo máximo de 180 dias, podendo ser de forma digital ou física, apontando argumentos que demonstrem mal uso da boa fé dada na auto classificação etária realizado pelo publicador do jogo. O Estado analisará o pedido e poderá realizar ou não a reclassificação etária do jogo, em prazo máximo de 90 dias. Se constatado que a auto classificação forneceu uma indicação menor do que o ideal, o jogo deverá atualizar sua indicação para a nova classificação fornececida pelo Estado, com prazo de 60 dias para a troca. Caso vença o prazo de troca sem a troca da classificação, segue multa diária máxima de 5.000 Ufir, a ser definido pelo Estado, até o cumprimento da medida. Em caso de contestação judicial por parte do publicador, este processo poderá ser bloqueado por decisão judicial preliminar, até que a causa seja resolvida.
 
 § 2º O Estado dispensará qualquer autorização estatal para o desenvolvimento, exploração, venda e distribuição dos jogos de entretenimento abrangidos por esta lei.
@@ -164,7 +164,7 @@ Parágrafo único. Para fins do disposto no caput deste artigo, o investimento e
 
 Parágrafo único. Para fins do disposto no caput deste artigo, considera-se como atividade de baixo risco.
 
-## Art. 16º Inclui as seguintes profissões de Produtor de jogos independente, Roteirista de jogos independente, Artista Visual de jogos independente, Artista Sonoro de jogos independente, UI Designer de jogos independente, UX Designer de jogos independente, Marketing de jogos independente, Testador de jogos independente, Programador de jogos independente, Agente de Cibersegurança de jogos independente, Designer de jogos independente, Desenvolvedor de jogos independente, Artista Digital independente e Desenvolvedor independente a lista de ocupações permitidas ao MEI, de acordo a lei complementar nº 123, de 14 de dezembro de 2006.
+## Art. 16º Incluem-se as seguintes profissões: Produtor de jogos independente, Roteirista de jogos independente, Artista Visual de jogos independente, Artista Sonoro de jogos independente, UI Designer de jogos independente, UX Designer de jogos independente, Marketing de jogos independente, Testador de jogos independente, Programador de jogos independente, Agente de Cibersegurança de jogos independente, Designer de jogos independente, Desenvolvedor de jogos independente, Artista Digital independente e Desenvolvedor independente, na lista de ocupações permitidas ao MEI, de acordo com a Lei Complementar nº 123, de 14 de dezembro de 2006
 
 ## Art. 17º O desenvolvimento de jogos eletrônicos é considerado pesquisa tecnológica e desenvolvimento de inovação tecnológica para fins de aproveitamento dos incentivos de que trata o Capítulo III da Lei nº 11.196, de 21 de novembro de 2005.
 
@@ -182,13 +182,13 @@ Parágrafo único. Para fins do disposto no caput deste artigo, considera-se com
 
 ## Art. 19º Para o exercício da profissão de Profissional de Jogos e Profissional Digital Generalista, não será exigido diploma, quaisquer qualificações ou licença Estado. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
 
-## Art. 20º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de altorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+## Art. 20º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de autorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
 
 
 
 # Capítulo III - Das isenções tributárias
 
-## Art. 21º Os chamados DevKits, sendo versões dos dispositivos dedicados aos jogos eletrônicos voltados ao desenvolvimento, sendo parte impressindivel do trabalho do desenvolvedor, possuem aliquotas zeradas de imposto sobre o produto industrializado (IPI) e imposto de importação (II).
+## Art. 21º Os chamados DevKits, sendo versões dos dispositivos dedicados aos jogos eletrônicos voltados ao desenvolvimento, sendo parte imprescindível do trabalho do desenvolvedor, possuem aliquotas zeradas de imposto sobre o produto industrializado (IPI) e imposto de importação (II).
 
 ## Art. 22º Os jogos eletrônicos, enquanto mídias físicas e digitais, possuem isenção de imposto de importação (II).
 
