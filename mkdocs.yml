@@ -121,6 +121,7 @@ plugins:
         - 'README'
         - 'CONTRIBUTING'
         - 'MINUTES'
+        - 'CHANGELOG'
         - ^$
       verbose: true
     #author: WHO
