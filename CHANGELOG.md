@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/CoPaJE/CoPaJE/compare/v1.1.1...v1.1.2) (2023-07-10)
+
+
+### Bug Fixes
+
+* ci typo ecdo -> echo ([072ce39](https://github.com/CoPaJE/CoPaJE/commit/072ce39152d0c43fa21a3fd0771fb71bae91fe82))
+
 ## [1.1.1](https://github.com/CoPaJE/CoPaJE/compare/v1.1.0...v1.1.1) (2023-07-10)
 
 
