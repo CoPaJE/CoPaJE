@@ -97,19 +97,28 @@ docs_dir: . # in order to use README.md as index.md
 
 plugins:
   - same-dir
+  - git-authors:
+      show_contribution: true
+      show_line_count: true
+      show_email_address: false
+      count_empty_lines: true
+      fallback_to_empty: false
+      sort_authors_by: contribution
+      enabled: true
+      strict: true
   - social:
       cards_layout: default/accent
-  - git-committers:
-      repository: CoPaJE/CoPaJE
-      branch: main
-      enabled: true
-      docs_path: ./
-      cache_dir: /tmp/cache/copajecache
+#  - git-committers:
+#      repository: CoPaJE/CoPaJE
+#      branch: main
+#      enabled: true
+#      docs_path: ./
+#      cache_dir: /tmp/cache/copajecache
   - git-revision-date-localized:
       locale: pt
       fallback_to_build_date: true
       timezone: America/Sao_Paulo
-      enable_creation_date: false
+      enable_creation_date: true
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify
