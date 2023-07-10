@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/CoPaJE/CoPaJE/compare/v1.1.2...v1.1.3) (2023-07-10)
+
+
+### Bug Fixes
+
+* latest release quando nao tem neva versao. usa a ultima tag ([d9c82ff](https://github.com/CoPaJE/CoPaJE/commit/d9c82ffa4bc76de233296902e621c2137dbb9656))
+
 ## [1.1.2](https://github.com/CoPaJE/CoPaJE/compare/v1.1.1...v1.1.2) (2023-07-10)
 
 
