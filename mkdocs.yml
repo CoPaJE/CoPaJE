@@ -19,6 +19,7 @@ nav:
   - Contra-Proposta: PROPOSTA.md
   - Transparencia:
     - Reuniões: MINUTES.md
+    - Historico: CHANGELOG.md
 
 theme:
   language: pt
