@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/CoPaJE/CoPaJE/compare/v1.1.5...v1.2.0) (2023-07-11)
+
+
+### Features
+
+* adiciona changelog como historico de mudancas para dar transparencia ([444b22b](https://github.com/CoPaJE/CoPaJE/commit/444b22b4fdbaf5c45abf7281b56452153b772de5))
+
 ## [1.1.5](https://github.com/CoPaJE/CoPaJE/compare/v1.1.4...v1.1.5) (2023-07-10)
 
 
