@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/CoPaJE/CoPaJE/compare/v1.2.0...v1.3.0) (2023-07-12)
+
+
+### Features
+
+* adiciona meta tags a Proposta ([5bc58fe](https://github.com/CoPaJE/CoPaJE/commit/5bc58fe436a1c9e1907d96f303d0638e77efe6d9))
+* adiciona novo tipo de template para pull request ([fe9f06b](https://github.com/CoPaJE/CoPaJE/commit/fe9f06bdc060aed9bfa73cd29c42dcf1712826e6))
+
 # [1.2.0](https://github.com/CoPaJE/CoPaJE/compare/v1.1.5...v1.2.0) (2023-07-11)
 
 
