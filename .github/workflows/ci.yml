@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
+#          persist-credentials: false
       - uses: actions/setup-python@v4
         with:
           python-version: 3.x
@@ -71,7 +72,7 @@ jobs:
             @semantic-release/npm@9.0.1
             @semantic-release/release-notes-generator@10.0.3
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_SQUID_TOKEN }}
 
       - name: version
         id: version
