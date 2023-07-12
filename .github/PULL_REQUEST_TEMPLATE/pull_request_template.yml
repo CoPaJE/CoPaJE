@@ -1,0 +1,42 @@
+name: Pull Request Template
+description: Template para Pull Requests.
+title: "[PR]: "
+labels: ["pr", "triage"]
+
+body:
+  - type: markdown
+    id: welcome
+    attributes:
+      value: |
+        Obrigado por contribuir com o CoPaJE! Antes de abrir um novo pull request, por favor, cheque se seu fork esta em sincronia com o repositorio.
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de Pull Request
+      description: |
+        Por favor, selecione o tipo de pull request.
+      options:
+        - ajustes ortograficos
+        - texto
+        - website
+      multiple: true
+      required: true
+
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Detalhes
+      description: |
+        Detalhe o contexto da proposta. Ex.: Por que ela é necessária? Qual problema ela resolve?
+      placeholder: Descreva o contexto da proposta. Por que ela é necessária? Qual problema ela resolve?
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Termos
+      description: |
+        Por favor, marque a caixa abaixo para indicar que você leu e concorda com os termos da comunidade.
+      options:
+        - label: Eu li e concordo com os termos de contribuicao comunidade no link abaixo ⬇️.
+          required: true
