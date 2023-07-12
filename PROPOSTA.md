@@ -1,3 +1,10 @@
+---
+title: "Marco Legal dos Jogos de Eletronicos"
+subtitle: "Contra-Proposta ao PL. 2796 de 2021"
+description: "Proposta de Marco Legal para a Industria de Jogos de Eletronicos"
+keywords: "Marco Legal, Jogos, Industria, PL 2796, 2021, jogos eletronicos, jogos analógicos, jogos de fantasia, fantasy sports"
+---
+
 # Contra-Proposta ao PL. 2796 de 2021
 
 !!! tip inline end "Como editar essa proposta" 
