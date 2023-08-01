@@ -55,9 +55,9 @@ O CONGRESSO NACIONAL decreta:
 - II - o dispositivo central e acessórios, para uso privado, a trabalho ou comercial, total ou parcialmente dedicados a executar jogos eletrônicos; e
 - III - o software para aplicativo de celular, tablets ou similares e/ou página de internet desenvolvida com o objetivo de entretenimento.
 
-§ 2º Considera-se jogo analógico:
+§ 2º Considera-se jogo analógico ou jogos de tabuleiros:
 
-- I - Conjuntos que envolvam peças físicas, tabuleiros ou componentes manipuláveis;
+- I - Conjuntos que envolvam cartas, peças físicas, tabuleiros ou componentes manipuláveis;
 - II - Livros físicos ou ebooks com histórias, enredos interativos ou com interpretação de papéis;
 - III - Conjunto de cartas ilustradas colecionáveis e regras competitivas que tenham como fim a disputa entre dois ou mais jogadores.
 
@@ -117,8 +117,6 @@ O CONGRESSO NACIONAL decreta:
 - I - Loja digital de jogos eletrônicos: a pessoa jurídica que realiza a venda na integra ou de licensiamento de autorização de uso de jogos eletrônicos digitais.
 
 - II - Provedor de serviço digital de jogos eletronicos sob demanda: a pessoa jurídica que disponibiliza para uso, dentro ou relacionado ao serviço prestado, de jogos eletrônicos.
-
-
 
 # Capítulo II - Dos direitos, deveres e garantias aos jogos de entretenimento
 
@@ -187,31 +185,41 @@ Parágrafo único. Para fins do disposto no caput deste artigo, considera-se com
 
 § 3º Observados a legislação trabalhista e os direitos das crianças e dos adolescentes, os adolescentes serão incentivados à programação e ao desenvolvimento de jogos eletrônicos.
 
-## Art. 19º Para o exercício da profissão de Profissional de Jogos e Profissional Digital Generalista, não será exigido diploma, quaisquer qualificações ou licença Estado. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+## Art. 19º O jogo de tabuleiro, assim entendido o jogo realizado em superfície plana e com uso de dados, cartas ou fichas e não praticado com intuito lucrativo, poderá ser utilizado para fins de políticas públicas de educação.
 
-## Art. 20º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de autorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+## Art. 20º O Estado considerará no plano nacional de educação ações de promoção humanística, científica e tecnológica, considerando o uso de jogos de tabuleiro, nos termos do art. 214 da Constituição Federal.
 
+## Art. 21º Fica isento de Imposto sobre Produtos Industrializados o jogo de tabuleiro e seus componentes, inclusive dados, cartas e fichas.
 
+§ 1º A isenção a que se refere o caput vigorará no período de 01 de janeiro de 2023 a 31 de dezembro de 2027.
+
+§ 2º A isenção a que se refere o caput tem como metas aumentar a qualidade do ensino no Brasil e disseminar conhecimento sobre políticas públicas de saúde e de proteção contra a violência infantil.
+
+§ 3º A avaliação e acompanhamento quanto à consecução das metas dispostas no §2º serão feitos pelo Ministério da Educação, e os resultados serão divulgados em seu sítio eletrônico até a data limite de 01 de julho de 2028.
+
+## Art. 22º Esta lei entra em vigor na data de sua publicação.
+
+## Art. 23º Para o exercício da profissão de Profissional de Jogos e Profissional Digital Generalista, não será exigido diploma, quaisquer qualificações ou licença Estado. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
+
+## Art. 24º Para a abertura, funcionamento, fechamento e o exercício de Empresa Produtora de Jogos e Empresa Disponibilizadora de Jogos, quaisquer necessidades de autorizações especiais ou licença Estado, além dos quais já é regulado para empresas em geral. É garantido liberdade de escolha e decisão as partes envolvidas no serviço prestado.
 
 # Capítulo III - Das isenções tributárias
 
-## Art. 21º Os chamados DevKits, sendo versões dos dispositivos dedicados aos jogos eletrônicos voltados ao desenvolvimento, sendo parte imprescindível do trabalho do desenvolvedor, possuem aliquotas zeradas de imposto sobre o produto industrializado (IPI) e imposto de importação (II).
+## Art. 25º Os chamados DevKits, sendo versões dos dispositivos dedicados aos jogos eletrônicos voltados ao desenvolvimento, sendo parte imprescindível do trabalho do desenvolvedor, possuem aliquotas zeradas de imposto sobre o produto industrializado (IPI) e imposto de importação (II).
 
-## Art. 22º Os jogos eletrônicos, enquanto mídias físicas e digitais, possuem isenção de imposto de importação (II).
-
-
+## Art. 26º Os jogos eletrônicos, enquanto mídias físicas e digitais, possuem isenção de imposto de importação (II).
 
 # Capítulo IV - Da promoção cultural aos jogos eletrônicos e jogos analógicos
 
-## Art. 23º Aplica-se às Empresas Produtoras de Jogos, exclusivamente de jogos eletrônicos e jogos analógicos, o dispostos no art. --- X --- da Lei nº 8.313, de 23 de dezembro de 1991. 
+## Art. 27º Aplica-se às Empresas Produtoras de Jogos, exclusivamente de jogos eletrônicos e jogos analógicos, o dispostos no art. --- X --- da Lei nº 8.313, de 23 de dezembro de 1991. 
 
 Parágrafo único. Para fins do disposto no caput deste artigo, o investimento em desenvolvimento de jogos eletrônicos ou jogos analógicos é considerado cultura.
 
-## Art. 24º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de serviço digital de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos:
+## Art. 28º A promoção da cultura nacional e do mercado de jogos eletronicos brasileiro, bem como a garantia da participação de profissionais brasileiros na execução de obras audiovisuais nacionais, nos termos do § 3º do art. 222 da Constituição da República Federativa do Brasil, é dever dos provedores de serviço digital de jogos eletronicos sob demanda e lojas digitais de jogos eletrônicos:
 
 Parágrafo único. Prover disposição em catálogo, de modo permanente, de uma vitrine digital na aba principal, contendo todos os jogos eletronicos brasileiros presentes no catálogo;
 
-## Art. 25º O provedor do serviço digital de jogos eletronicos sob demanda e loja digital de jogos eletrônicos investirá anualmente percentual de sua receita bruta na produção ou aquisição de direitos de licenciamento de obras de jogos eletronicos brasileiras.
+## Art. 29º O provedor do serviço digital de jogos eletronicos sob demanda e loja digital de jogos eletrônicos investirá anualmente percentual de sua receita bruta na produção ou aquisição de direitos de licenciamento de obras de jogos eletronicos brasileiras.
 
 § 1º O percentual a ser investido será proporcional à receita bruta anual obtida pelo provedor no exercício anterior ao do investimento, obedecendo aos seguintes percentuais e em apuração progressiva:
 
@@ -223,4 +231,4 @@ Parágrafo único. Prover disposição em catálogo, de modo permanente, de uma 
 
 - IV – 2% (dois por cento) para a parcela de receita bruta anual, de vendas a consumidores brasileiros, acima de 200.000.000 Ufir (duzentos milhões).
 
-## Art. 24º Esta Lei entra em vigor na data de sua publicação, exceto em relação aos arts. Xº, Y, ... e Zº desta Lei, que entram em vigor em 1º de janeiro de 2024.
+## Art. 30º Esta Lei entra em vigor na data de sua publicação, exceto em relação aos arts. Xº, Y, ... e Zº desta Lei, que entram em vigor em 1º de janeiro de 2024.
