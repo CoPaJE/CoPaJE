@@ -97,7 +97,7 @@ Fizemos uma primeira reunião com interessados da comunidade Awesome GameDev Gui
 
 ## Colabore
 
-Gosta de nosso trabalho e nao sabe como colaborar, mas quer participar? Nao tem problema, voce pode no ajudar de diversas maneiras, tais como:
+Gosta de nosso trabalho e não sabe como colaborar, mas quer participar? Nao tem problema, voce pode no ajudar de diversas maneiras, tais como:
 
 - Aprenda a colaborar ativamente com nosso [Guia de  Colaboracao](CONTRIBUTING.md). 
 - [:simple-whatsapp: Whatsapp](https://chat.whatsapp.com/LELghAO8waM7yExBIvMB8p) Participe das nossas discussões e atividades.
