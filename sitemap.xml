@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://copaje.com/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://copaje.com/CHANGELOG/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://copaje.com/CONTRIBUTING/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://copaje.com/MINUTES/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://copaje.com/PROPOSTA/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://copaje.com/cobre/</loc>
+         <lastmod>2023-08-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
