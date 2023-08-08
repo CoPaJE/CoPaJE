@@ -2,8 +2,8 @@
 
 Este documento representa as atas das reunioes do CoPaJE.
 
-- [2023/07/06](#20230706)
 - [2023/08/08](#20230808)
+- [2023/07/06](#20230706)
 
 ## 2023/08/08
 
@@ -23,7 +23,7 @@ Este documento representa as atas das reunioes do CoPaJE.
 
 - Procurar Leila do Volei para ver se eles podem ajudar a discutir o tema, BIG tem uma pessoa especializada.
 - Argumento invalido do setor nao ter contactado ele. Precisamos dar argumento contrario a isso. 
-- Lobba da Bind - Bahia indie game developers - BIND. Representatividade educacional e contato com poder publico, interlocucao com governo. Argumentos sobre nao ter criado um documento consultando advogados especialistas em games, e factualmente nao consultou devs. Suspeitas sobre razoes de deixar o texto tao aberto. Possibilidade de haver atuado de ma fe. 
+- Lobba da Bind - Bahia indie game developers - BIND. Representatividade educacional e contato com poder publico, interlocucao com governo. Argumentos sobre nao ter criado um documento consultando advogados especialistas em games, e factualmente nao consultou devs. Levantamento de hipoteses sobre razoes de deixar o texto tao aberto. Possibilidade de haver atuado de ma fe. 
 - Ruda da Ring - relato sobre o interesse da Leila ser a relatora do projeto. que alguns senadores estao considerando o tema toxico. Relato que alguns ministerios ja estao contra. 
 
 ### Acoes:
