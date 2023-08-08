@@ -3,6 +3,41 @@
 Este documento representa as atas das reunioes do CoPaJE.
 
 - [2023/07/06](#20230706)
+- [2023/08/08](#20230808)
+
+## 2023/08/08
+
+### Presentes:
+
+- Miguel, Tolsta, Marcelo Rigon, Lobba Mattos, Karla Correa, Fabio Oliveira, Daniel Gularte, Alec Santos
+
+### Pauta:
+
+- Revisao da posicao do Kim. O kim esta conversado com as pessoas erradas;
+- Revisao da comunicacao da proposta no site;
+- Conseguimos colocar algum acessor do kim (ele saiu do grupo?) ou outros
+- Contrapor a visao da abragames com o argumento de que ele nao conversou.
+- Redefiniao de Escopo - vamos so autar somente jogos eletronicos ou incluir jogos de entretenimento em geral? Então como ficaria o logo e nome do grupo?
+
+### Ata:
+
+- Procurar Leila do Volei para ver se eles podem ajudar a discutir o tema, BIG tem uma pessoa especializada.
+- Argumento invalido do setor nao ter contactado ele. Precisamos dar argumento contrario a isso. 
+- Lobba da Bind - Bahia indie game developers - BIND. Representatividade educacional e contato com poder publico, interlocucao com governo. Argumentos sobre nao ter criado um documento consultando advogados especialistas em games, e factualmente nao consultou devs. Suspeitas sobre razoes de deixar o texto tao aberto. Possibilidade de haver atuado de ma fe. 
+- Ruda da Ring - relato sobre o interesse da Leila ser a relatora do projeto. que alguns senadores estao considerando o tema toxico. Relato que alguns ministerios ja estao contra. 
+
+### Acoes:
+
+- Contactar Leila do Volei e buscar contato - Continuar contato do BIG. Precisando de pessoas para atuar nisso.
+- Precisamos publicizar um contra-argumento do que ele falou. Buscar jornalistas etc. EX: "Kim diz que contactou, mas nao contactou a maior associacao de gamedev do BR!". Buscar jornalistas interessados em games e ajudar a publicar um artigo sobre. Provar que o argumento dado ao flow que procurou advogados especializados eh sem sentido.
+- Colocar formas no site mecanismos de cobrar a lista de telefones, criar texto base, contactar wp etc. - TOLSTA
+- Adicionar referencia ao post do @Daniel Gularte no https://bojoga.com.br/artigos/dossie-retro/pl-do-marco-legal-dos-game-entenda-os-riscos-do-setor/ - Tolsta
+- Adicionar referencias a chancelas e argumentos de autoridade ao CoPaJE. - Tolsta
+- Adicionar artigo da BIND e os argumentos. - Tolsta 
+- Criar o histrorico do que aconteceu, criar linha do tempo do que se passou para dar contexto dos fatos e racional. - Ruda?
+- Contactar Lídice da Mata - Lobba disse q tem Contato com acessoria dela. 
+- Adicionar contatos dos deputados tbm, nao apenas senadores. Tolsta.
+- Criar videos e explicacao de como colaborar com o projeto. Tolsta.
 
 ## 2023/07/06
 
